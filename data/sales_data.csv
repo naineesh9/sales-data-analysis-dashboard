@@ -1,0 +1,1201 @@
+Order ID,Order Date,Ship Date,Region,Segment,Ship Mode,Category,Sub-Category,Quantity,Sales,Discount,Profit
+ORD-10000,2025-02-02,2025-02-06,Central,Corporate,Same Day,Furniture,Storage,6,2458.55,0.15,651.96
+ORD-10001,2025-10-10,2025-10-14,Central,Home Office,Standard Class,Office Supplies,Art,6,115.47,0.0,47.48
+ORD-10002,2025-08-27,2025-08-30,West,Home Office,Standard Class,Furniture,Storage,7,495.38,0.15,105.65
+ORD-10003,2025-06-10,2025-06-14,West,Consumer,Standard Class,Technology,Monitors,7,3955.99,0.15,1005.14
+ORD-10004,2025-06-08,2025-06-12,South,Home Office,Standard Class,Technology,Monitors,2,953.79,0.05,286.69
+ORD-10005,2025-11-10,2025-11-12,Central,Consumer,First Class,Technology,Accessories,7,3158.75,0.2,1060.3
+ORD-10006,2025-02-01,2025-02-02,South,Home Office,Same Day,Technology,Accessories,3,872.15,0.1,319.67
+ORD-10007,2025-09-12,2025-09-13,West,Consumer,Standard Class,Office Supplies,Paper,1,51.41,0.1,17.61
+ORD-10008,2025-03-15,2025-03-20,South,Corporate,Standard Class,Furniture,Storage,7,895.44,0.2,216.96
+ORD-10009,2025-02-04,2025-02-06,South,Consumer,Standard Class,Furniture,Bookcases,3,1311.93,0.1,394.39
+ORD-10010,2025-07-12,2025-07-14,West,Home Office,Second Class,Office Supplies,Art,4,382.29,0.0,139.34
+ORD-10011,2025-12-23,2025-12-24,Central,Corporate,Standard Class,Office Supplies,Binders,1,9.72,0.0,4.26
+ORD-10012,2025-09-26,2025-09-29,West,Consumer,Standard Class,Furniture,Tables,4,283.48,0.0,86.11
+ORD-10013,2025-10-05,2025-10-06,East,Consumer,First Class,Furniture,Tables,2,550.33,0.05,185.76
+ORD-10014,2025-09-19,2025-09-22,West,Consumer,Standard Class,Office Supplies,Art,2,68.86,0.2,32.01
+ORD-10015,2025-10-14,2025-10-19,East,Consumer,Standard Class,Office Supplies,Paper,1,8.6,0.0,3.87
+ORD-10016,2025-07-07,2025-07-09,South,Home Office,Standard Class,Technology,Laptops,4,2651.19,0.15,860.73
+ORD-10017,2025-02-16,2025-02-18,West,Corporate,Same Day,Office Supplies,Paper,1,87.22,0.1,29.71
+ORD-10018,2025-11-03,2025-11-08,East,Consumer,Standard Class,Furniture,Bookcases,3,317.22,0.15,51.86
+ORD-10019,2025-06-14,2025-06-18,South,Consumer,Standard Class,Office Supplies,Paper,5,595.27,0.0,234.53
+ORD-10020,2025-07-02,2025-07-03,East,Home Office,First Class,Office Supplies,Art,5,182.08,0.0,81.94
+ORD-10021,2025-05-16,2025-05-18,Central,Consumer,Second Class,Office Supplies,Paper,2,135.43,0.1,50.48
+ORD-10022,2025-03-08,2025-03-11,South,Corporate,Same Day,Office Supplies,Art,6,32.81,0.15,12.38
+ORD-10023,2025-12-05,2025-12-06,Central,Consumer,Second Class,Technology,Phones,4,2952.8,0.15,779.81
+ORD-10024,2025-10-13,2025-10-16,South,Home Office,Standard Class,Technology,Phones,4,1713.45,0.15,345.99
+ORD-10025,2025-08-24,2025-08-26,Central,Corporate,Standard Class,Office Supplies,Binders,1,111.73,0.05,33.78
+ORD-10026,2025-05-27,2025-05-29,West,Corporate,Second Class,Office Supplies,Art,3,303.94,0.1,108.92
+ORD-10027,2025-10-28,2025-10-30,East,Consumer,Second Class,Furniture,Tables,1,139.6,0.15,30.86
+ORD-10028,2025-07-19,2025-07-23,East,Corporate,Standard Class,Technology,Phones,2,468.39,0.2,129.67
+ORD-10029,2025-06-11,2025-06-16,West,Consumer,Second Class,Technology,Phones,3,1966.43,0.2,684.42
+ORD-10030,2025-06-14,2025-06-15,South,Consumer,First Class,Technology,Monitors,3,1669.36,0.05,493.44
+ORD-10031,2025-03-24,2025-03-27,South,Consumer,Standard Class,Furniture,Storage,6,2082.72,0.2,316.34
+ORD-10032,2025-02-03,2025-02-06,West,Home Office,Standard Class,Office Supplies,Art,1,28.22,0.15,9.74
+ORD-10033,2025-07-22,2025-07-23,West,Consumer,Standard Class,Technology,Monitors,3,2297.2,0.1,444.11
+ORD-10034,2025-11-21,2025-11-26,West,Consumer,Standard Class,Furniture,Tables,4,1143.34,0.0,345.46
+ORD-10035,2025-01-24,2025-01-26,East,Consumer,First Class,Technology,Laptops,1,520.8,0.1,137.08
+ORD-10036,2025-11-10,2025-11-14,South,Consumer,Standard Class,Office Supplies,Binders,6,61.34,0.05,25.41
+ORD-10037,2025-10-30,2025-11-02,Central,Consumer,First Class,Office Supplies,Art,4,453.1,0.05,193.52
+ORD-10038,2025-04-12,2025-04-16,East,Corporate,Standard Class,Furniture,Storage,1,182.49,0.1,62.16
+ORD-10039,2025-08-19,2025-08-23,Central,Consumer,Standard Class,Furniture,Bookcases,1,48.42,0.2,11.36
+ORD-10040,2025-03-02,2025-03-04,Central,Consumer,Second Class,Office Supplies,Binders,3,236.99,0.1,90.88
+ORD-10041,2025-10-04,2025-10-05,West,Consumer,Standard Class,Office Supplies,Paper,2,144.69,0.1,55.84
+ORD-10042,2025-09-13,2025-09-15,Central,Home Office,Standard Class,Technology,Monitors,2,1255.27,0.0,312.58
+ORD-10043,2025-05-10,2025-05-15,East,Corporate,Second Class,Office Supplies,Art,6,438.5,0.05,144.98
+ORD-10044,2025-01-25,2025-01-30,East,Consumer,First Class,Furniture,Tables,5,1132.25,0.15,291.46
+ORD-10045,2025-12-21,2025-12-26,South,Consumer,Standard Class,Furniture,Bookcases,3,1198.74,0.15,277.08
+ORD-10046,2025-06-12,2025-06-16,West,Consumer,Second Class,Office Supplies,Binders,4,275.07,0.05,90.77
+ORD-10047,2025-11-22,2025-11-26,East,Consumer,Standard Class,Office Supplies,Labels,4,376.19,0.0,151.03
+ORD-10048,2025-09-05,2025-09-07,East,Consumer,Second Class,Office Supplies,Paper,2,26.02,0.0,9.58
+ORD-10049,2025-10-12,2025-10-13,South,Consumer,First Class,Office Supplies,Paper,5,281.65,0.1,107.3
+ORD-10050,2025-10-05,2025-10-07,West,Consumer,Second Class,Office Supplies,Binders,7,385.96,0.05,144.54
+ORD-10051,2025-03-13,2025-03-16,Central,Home Office,First Class,Furniture,Bookcases,7,2657.96,0.1,882.5
+ORD-10052,2025-05-13,2025-05-14,East,Consumer,Standard Class,Technology,Accessories,7,900.18,0.05,262.66
+ORD-10053,2025-06-20,2025-06-25,Central,Consumer,Standard Class,Office Supplies,Binders,1,99.21,0.0,39.51
+ORD-10054,2025-07-01,2025-07-06,South,Corporate,Second Class,Office Supplies,Art,2,60.41,0.0,23.52
+ORD-10055,2025-01-16,2025-01-18,East,Consumer,First Class,Technology,Laptops,1,847.51,0.05,232.62
+ORD-10056,2025-07-19,2025-07-21,Central,Consumer,Standard Class,Office Supplies,Labels,7,563.81,0.1,244.15
+ORD-10057,2025-02-26,2025-03-01,East,Consumer,Second Class,Office Supplies,Labels,3,235.01,0.15,100.61
+ORD-10058,2025-09-29,2025-10-03,West,Consumer,Second Class,Furniture,Storage,2,147.4,0.0,51.48
+ORD-10059,2025-09-07,2025-09-12,Central,Consumer,Standard Class,Technology,Accessories,6,772.67,0.0,252.14
+ORD-10060,2025-12-03,2025-12-06,East,Consumer,Standard Class,Technology,Monitors,1,180.93,0.05,58.62
+ORD-10061,2025-09-29,2025-10-04,South,Consumer,First Class,Technology,Phones,1,145.68,0.1,49.5
+ORD-10062,2025-05-14,2025-05-19,Central,Corporate,Same Day,Office Supplies,Labels,6,202.81,0.2,73.42
+ORD-10063,2025-12-20,2025-12-25,Central,Consumer,Standard Class,Technology,Monitors,3,1176.6,0.0,295.88
+ORD-10064,2025-05-30,2025-06-03,Central,Corporate,Standard Class,Technology,Monitors,1,332.09,0.2,123.0
+ORD-10065,2025-04-29,2025-05-03,West,Corporate,Standard Class,Technology,Phones,3,1523.63,0.05,305.85
+ORD-10066,2025-11-27,2025-11-28,West,Consumer,Second Class,Technology,Accessories,6,3357.8,0.2,864.25
+ORD-10067,2025-05-16,2025-05-19,Central,Consumer,First Class,Technology,Accessories,7,527.86,0.1,153.56
+ORD-10068,2025-01-28,2025-01-29,West,Consumer,Standard Class,Office Supplies,Binders,6,604.53,0.05,219.28
+ORD-10069,2025-06-21,2025-06-26,Central,Consumer,Standard Class,Technology,Phones,2,1566.24,0.1,434.36
+ORD-10070,2025-10-18,2025-10-19,Central,Consumer,Second Class,Furniture,Chairs,1,332.19,0.05,112.07
+ORD-10071,2025-03-11,2025-03-16,Central,Consumer,Standard Class,Office Supplies,Binders,6,314.94,0.1,134.8
+ORD-10072,2025-06-18,2025-06-19,South,Consumer,Standard Class,Office Supplies,Binders,3,63.17,0.0,28.43
+ORD-10073,2025-02-17,2025-02-18,West,Home Office,Same Day,Office Supplies,Binders,2,148.08,0.05,56.76
+ORD-10074,2025-09-08,2025-09-12,Central,Home Office,Standard Class,Technology,Laptops,4,2635.01,0.0,663.72
+ORD-10075,2025-06-23,2025-06-26,East,Home Office,Standard Class,Technology,Monitors,6,4736.19,0.05,1109.14
+ORD-10076,2025-05-01,2025-05-05,East,Consumer,Same Day,Office Supplies,Paper,3,220.33,0.15,76.79
+ORD-10077,2025-03-24,2025-03-27,East,Corporate,Standard Class,Office Supplies,Labels,3,232.35,0.1,94.3
+ORD-10078,2025-07-26,2025-07-28,West,Consumer,Standard Class,Furniture,Tables,3,722.24,0.1,260.74
+ORD-10079,2025-09-02,2025-09-07,Central,Consumer,Standard Class,Technology,Laptops,5,4406.49,0.0,1342.14
+ORD-10080,2025-12-10,2025-12-11,Central,Corporate,Second Class,Technology,Laptops,4,834.81,0.15,181.11
+ORD-10081,2025-06-09,2025-06-11,East,Consumer,Same Day,Technology,Phones,6,4058.59,0.05,1099.61
+ORD-10082,2025-02-28,2025-03-01,East,Corporate,Standard Class,Office Supplies,Binders,4,62.43,0.1,23.61
+ORD-10083,2025-10-31,2025-11-03,Central,Consumer,Standard Class,Furniture,Bookcases,7,2157.17,0.1,659.01
+ORD-10084,2025-08-18,2025-08-19,Central,Consumer,Standard Class,Office Supplies,Binders,4,360.63,0.05,142.71
+ORD-10085,2025-09-13,2025-09-18,West,Corporate,Second Class,Office Supplies,Labels,7,619.88,0.1,290.11
+ORD-10086,2025-02-05,2025-02-06,South,Consumer,Standard Class,Furniture,Bookcases,2,800.1,0.05,172.18
+ORD-10087,2025-04-25,2025-04-30,East,Consumer,Standard Class,Technology,Monitors,2,1336.93,0.05,466.12
+ORD-10088,2025-10-08,2025-10-09,West,Consumer,Second Class,Technology,Phones,2,1118.81,0.15,392.7
+ORD-10089,2025-10-31,2025-11-01,Central,Consumer,Standard Class,Furniture,Storage,2,407.92,0.15,62.85
+ORD-10090,2025-06-08,2025-06-09,West,Consumer,Standard Class,Technology,Phones,1,246.17,0.1,75.72
+ORD-10091,2025-10-21,2025-10-25,South,Home Office,First Class,Office Supplies,Labels,4,24.54,0.1,8.81
+ORD-10092,2025-11-04,2025-11-05,South,Home Office,Standard Class,Furniture,Tables,4,1422.18,0.2,243.09
+ORD-10093,2025-05-22,2025-05-27,West,Consumer,Second Class,Technology,Monitors,5,1813.03,0.0,675.69
+ORD-10094,2025-11-24,2025-11-28,West,Home Office,Second Class,Technology,Accessories,7,1578.55,0.05,491.86
+ORD-10095,2025-04-16,2025-04-21,Central,Consumer,Standard Class,Office Supplies,Binders,3,156.01,0.05,62.56
+ORD-10096,2025-03-29,2025-04-02,Central,Consumer,Standard Class,Office Supplies,Art,3,28.33,0.0,11.27
+ORD-10097,2025-09-07,2025-09-08,West,Corporate,Standard Class,Technology,Monitors,2,408.52,0.15,122.66
+ORD-10098,2025-08-21,2025-08-22,West,Consumer,First Class,Office Supplies,Binders,7,642.43,0.0,218.33
+ORD-10099,2025-02-21,2025-02-26,West,Consumer,First Class,Technology,Laptops,2,1402.64,0.05,402.72
+ORD-10100,2025-10-31,2025-11-02,East,Home Office,Standard Class,Office Supplies,Art,3,200.21,0.15,66.31
+ORD-10101,2025-03-14,2025-03-19,Central,Consumer,Standard Class,Office Supplies,Labels,7,646.77,0.0,243.09
+ORD-10102,2025-10-21,2025-10-26,West,Home Office,Standard Class,Office Supplies,Binders,6,519.7,0.05,193.26
+ORD-10103,2025-01-03,2025-01-07,West,Corporate,Standard Class,Furniture,Chairs,6,895.48,0.1,309.03
+ORD-10104,2025-10-18,2025-10-20,Central,Corporate,First Class,Technology,Phones,6,4789.97,0.1,1055.86
+ORD-10105,2025-10-15,2025-10-17,Central,Consumer,First Class,Furniture,Chairs,5,2085.05,0.15,584.91
+ORD-10106,2025-10-12,2025-10-17,Central,Consumer,Standard Class,Furniture,Tables,5,1636.98,0.0,471.43
+ORD-10107,2025-08-31,2025-09-04,West,Home Office,Standard Class,Technology,Monitors,3,698.98,0.2,248.94
+ORD-10108,2025-06-22,2025-06-23,West,Consumer,Standard Class,Furniture,Tables,6,2050.75,0.15,460.07
+ORD-10109,2025-09-15,2025-09-20,South,Consumer,First Class,Furniture,Tables,6,1608.44,0.2,353.16
+ORD-10110,2025-04-12,2025-04-15,East,Consumer,Standard Class,Office Supplies,Labels,3,356.49,0.0,137.29
+ORD-10111,2025-10-12,2025-10-16,Central,Corporate,First Class,Furniture,Storage,3,1149.98,0.05,446.67
+ORD-10112,2025-07-22,2025-07-27,West,Consumer,Standard Class,Technology,Phones,6,3929.54,0.15,1262.19
+ORD-10113,2025-06-17,2025-06-19,East,Corporate,First Class,Technology,Monitors,1,491.8,0.1,81.94
+ORD-10114,2025-07-04,2025-07-06,South,Corporate,Second Class,Office Supplies,Labels,1,52.04,0.0,18.1
+ORD-10115,2025-07-27,2025-07-31,East,Home Office,Standard Class,Office Supplies,Paper,1,61.01,0.2,27.45
+ORD-10116,2025-01-14,2025-01-17,South,Consumer,Standard Class,Furniture,Bookcases,5,2295.27,0.1,607.19
+ORD-10117,2025-02-21,2025-02-24,East,Consumer,Standard Class,Technology,Phones,5,3198.51,0.1,919.26
+ORD-10118,2025-03-31,2025-04-01,South,Consumer,Second Class,Office Supplies,Labels,2,50.44,0.2,19.67
+ORD-10119,2025-02-11,2025-02-13,Central,Consumer,Standard Class,Office Supplies,Labels,3,286.21,0.2,104.7
+ORD-10120,2025-06-10,2025-06-15,Central,Consumer,Standard Class,Office Supplies,Art,7,311.24,0.2,135.02
+ORD-10121,2025-09-01,2025-09-04,West,Consumer,Standard Class,Office Supplies,Labels,1,44.16,0.15,19.98
+ORD-10122,2025-08-27,2025-08-28,East,Home Office,Standard Class,Technology,Accessories,1,266.85,0.0,65.89
+ORD-10123,2025-06-21,2025-06-24,West,Consumer,Standard Class,Office Supplies,Binders,7,144.09,0.1,53.53
+ORD-10124,2025-11-09,2025-11-14,Central,Home Office,Standard Class,Furniture,Tables,1,500.99,0.0,138.48
+ORD-10125,2025-07-26,2025-07-28,South,Home Office,Standard Class,Office Supplies,Art,4,123.23,0.0,39.3
+ORD-10126,2025-01-29,2025-02-02,West,Corporate,Second Class,Office Supplies,Paper,1,86.85,0.0,38.76
+ORD-10127,2025-10-07,2025-10-10,East,Consumer,Standard Class,Technology,Accessories,2,449.73,0.0,112.37
+ORD-10128,2025-07-29,2025-07-30,Central,Consumer,Second Class,Technology,Phones,7,5516.06,0.1,1392.29
+ORD-10129,2025-08-20,2025-08-21,South,Consumer,Second Class,Furniture,Storage,4,266.08,0.15,49.09
+ORD-10130,2025-07-26,2025-07-27,Central,Corporate,Standard Class,Furniture,Bookcases,3,364.77,0.2,65.19
+ORD-10131,2025-07-22,2025-07-26,West,Home Office,Standard Class,Office Supplies,Binders,5,338.75,0.2,144.08
+ORD-10132,2025-02-03,2025-02-05,West,Consumer,Standard Class,Technology,Accessories,5,2966.89,0.15,830.74
+ORD-10133,2025-07-24,2025-07-29,Central,Corporate,Standard Class,Furniture,Storage,3,303.04,0.1,89.62
+ORD-10134,2025-10-18,2025-10-22,West,Consumer,Standard Class,Technology,Phones,1,293.84,0.05,73.8
+ORD-10135,2025-04-21,2025-04-26,West,Consumer,Standard Class,Technology,Laptops,6,2338.96,0.0,656.98
+ORD-10136,2025-08-09,2025-08-12,East,Corporate,Same Day,Furniture,Storage,3,988.1,0.05,301.18
+ORD-10137,2025-01-12,2025-01-15,Central,Consumer,Standard Class,Office Supplies,Art,7,830.06,0.0,369.83
+ORD-10138,2025-05-07,2025-05-08,West,Home Office,Standard Class,Office Supplies,Art,3,324.11,0.05,131.93
+ORD-10139,2025-06-09,2025-06-11,Central,Corporate,Same Day,Furniture,Chairs,7,3181.1,0.05,1431.49
+ORD-10140,2025-12-25,2025-12-28,Central,Consumer,Standard Class,Furniture,Tables,4,863.41,0.1,233.27
+ORD-10141,2025-03-20,2025-03-23,West,Consumer,Second Class,Technology,Accessories,4,1505.06,0.0,430.27
+ORD-10142,2025-04-11,2025-04-12,West,Consumer,Standard Class,Furniture,Bookcases,1,85.35,0.2,25.51
+ORD-10143,2025-05-30,2025-06-02,Central,Consumer,Standard Class,Office Supplies,Art,1,75.51,0.0,27.45
+ORD-10144,2025-12-29,2026-01-03,East,Consumer,Standard Class,Technology,Phones,1,101.56,0.05,28.16
+ORD-10145,2025-11-08,2025-11-12,East,Consumer,Standard Class,Technology,Phones,3,2409.65,0.1,750.53
+ORD-10146,2025-01-13,2025-01-18,Central,Home Office,Standard Class,Office Supplies,Binders,6,194.27,0.2,87.42
+ORD-10147,2025-03-27,2025-03-31,East,Corporate,Standard Class,Office Supplies,Labels,5,517.69,0.0,196.43
+ORD-10148,2025-10-27,2025-10-31,West,Consumer,Standard Class,Furniture,Storage,1,390.8,0.2,80.05
+ORD-10149,2025-01-22,2025-01-23,West,Consumer,Standard Class,Furniture,Tables,1,279.27,0.15,64.06
+ORD-10150,2025-11-09,2025-11-10,Central,Home Office,Standard Class,Office Supplies,Binders,6,535.12,0.1,211.24
+ORD-10151,2025-04-13,2025-04-16,South,Corporate,Standard Class,Technology,Monitors,3,2134.76,0.05,519.65
+ORD-10152,2025-12-01,2025-12-05,Central,Consumer,Standard Class,Technology,Phones,7,3933.02,0.0,1286.88
+ORD-10153,2025-04-18,2025-04-19,Central,Consumer,First Class,Furniture,Storage,7,3418.85,0.05,1239.47
+ORD-10154,2025-06-08,2025-06-11,East,Home Office,Standard Class,Furniture,Bookcases,3,200.47,0.1,42.89
+ORD-10155,2025-08-30,2025-08-31,Central,Corporate,First Class,Technology,Accessories,4,1301.62,0.05,425.05
+ORD-10156,2025-02-16,2025-02-17,West,Consumer,Standard Class,Furniture,Bookcases,2,428.33,0.1,146.48
+ORD-10157,2025-07-23,2025-07-27,Central,Corporate,First Class,Furniture,Tables,7,1449.51,0.2,259.16
+ORD-10158,2025-07-04,2025-07-07,East,Corporate,Standard Class,Technology,Phones,4,2423.57,0.1,668.18
+ORD-10159,2025-10-14,2025-10-19,East,Corporate,Standard Class,Office Supplies,Labels,2,50.6,0.05,15.73
+ORD-10160,2025-12-30,2026-01-03,Central,Corporate,Standard Class,Technology,Accessories,1,287.73,0.1,67.0
+ORD-10161,2025-08-31,2025-09-04,South,Consumer,Standard Class,Technology,Phones,7,5405.88,0.1,1234.22
+ORD-10162,2025-05-30,2025-05-31,West,Corporate,First Class,Technology,Monitors,4,3583.63,0.0,954.55
+ORD-10163,2025-05-29,2025-05-30,South,Consumer,First Class,Technology,Phones,6,769.06,0.05,333.15
+ORD-10164,2025-06-02,2025-06-04,South,Consumer,Second Class,Technology,Laptops,2,738.95,0.05,193.49
+ORD-10165,2025-10-25,2025-10-26,South,Consumer,Standard Class,Furniture,Storage,5,934.55,0.0,178.85
+ORD-10166,2025-04-28,2025-04-29,East,Consumer,First Class,Office Supplies,Binders,1,45.92,0.15,13.47
+ORD-10167,2025-03-02,2025-03-05,East,Home Office,Standard Class,Office Supplies,Art,3,238.83,0.05,88.31
+ORD-10168,2025-05-03,2025-05-06,West,Consumer,Standard Class,Furniture,Tables,4,768.99,0.15,138.0
+ORD-10169,2025-01-09,2025-01-10,Central,Consumer,Standard Class,Office Supplies,Binders,4,474.11,0.0,160.02
+ORD-10170,2025-02-08,2025-02-10,South,Consumer,Standard Class,Technology,Monitors,5,2840.28,0.0,581.97
+ORD-10171,2025-02-02,2025-02-07,Central,Corporate,First Class,Furniture,Bookcases,3,921.97,0.05,222.59
+ORD-10172,2025-10-09,2025-10-13,West,Corporate,Standard Class,Office Supplies,Labels,7,459.75,0.0,167.62
+ORD-10173,2025-09-21,2025-09-25,South,Consumer,First Class,Technology,Laptops,7,810.8,0.15,238.12
+ORD-10174,2025-09-12,2025-09-15,West,Corporate,Same Day,Office Supplies,Labels,5,234.9,0.15,109.93
+ORD-10175,2025-06-18,2025-06-19,West,Consumer,Second Class,Technology,Laptops,1,370.36,0.1,88.97
+ORD-10176,2025-09-19,2025-09-21,South,Corporate,Second Class,Office Supplies,Paper,6,334.82,0.15,139.55
+ORD-10177,2025-02-28,2025-03-03,East,Corporate,First Class,Furniture,Chairs,3,542.34,0.15,156.81
+ORD-10178,2025-11-25,2025-11-27,East,Consumer,Standard Class,Furniture,Tables,3,1564.54,0.0,619.73
+ORD-10179,2025-07-02,2025-07-03,West,Corporate,First Class,Office Supplies,Paper,5,256.23,0.0,105.65
+ORD-10180,2025-12-09,2025-12-13,South,Consumer,First Class,Office Supplies,Art,4,267.35,0.2,93.32
+ORD-10181,2025-02-25,2025-03-01,Central,Home Office,Standard Class,Technology,Phones,6,2755.99,0.0,945.22
+ORD-10182,2025-07-01,2025-07-04,East,Corporate,Standard Class,Office Supplies,Paper,2,85.2,0.1,35.19
+ORD-10183,2025-09-12,2025-09-16,Central,Home Office,Second Class,Office Supplies,Binders,4,22.07,0.2,9.58
+ORD-10184,2025-06-30,2025-07-01,East,Corporate,Standard Class,Office Supplies,Binders,3,91.07,0.1,35.53
+ORD-10185,2025-06-12,2025-06-15,West,Consumer,Standard Class,Technology,Monitors,2,1094.16,0.1,287.15
+ORD-10186,2025-03-02,2025-03-06,East,Corporate,Second Class,Technology,Phones,4,2630.82,0.05,815.75
+ORD-10187,2025-05-20,2025-05-24,Central,Consumer,Second Class,Office Supplies,Binders,5,343.31,0.1,103.3
+ORD-10188,2025-03-29,2025-03-31,East,Home Office,Standard Class,Technology,Laptops,7,1593.31,0.05,489.3
+ORD-10189,2025-04-21,2025-04-22,South,Home Office,Second Class,Furniture,Tables,7,3363.52,0.05,970.17
+ORD-10190,2025-09-07,2025-09-08,South,Consumer,Second Class,Office Supplies,Paper,3,226.9,0.0,82.82
+ORD-10191,2025-08-19,2025-08-21,Central,Consumer,First Class,Office Supplies,Paper,1,88.4,0.15,32.89
+ORD-10192,2025-08-10,2025-08-15,East,Home Office,Second Class,Office Supplies,Labels,7,295.26,0.05,81.6
+ORD-10193,2025-05-13,2025-05-16,Central,Corporate,Standard Class,Furniture,Chairs,2,293.46,0.0,79.7
+ORD-10194,2025-12-17,2025-12-18,Central,Consumer,First Class,Office Supplies,Labels,5,346.06,0.15,97.61
+ORD-10195,2025-02-01,2025-02-03,South,Consumer,First Class,Office Supplies,Paper,2,52.64,0.15,20.76
+ORD-10196,2025-05-06,2025-05-08,West,Home Office,First Class,Furniture,Bookcases,2,599.69,0.1,218.38
+ORD-10197,2025-02-13,2025-02-18,South,Corporate,Standard Class,Furniture,Tables,6,1091.93,0.15,236.51
+ORD-10198,2025-05-04,2025-05-06,South,Consumer,Second Class,Furniture,Bookcases,2,571.3,0.05,182.66
+ORD-10199,2025-12-18,2025-12-20,East,Home Office,Standard Class,Office Supplies,Labels,7,440.66,0.05,193.22
+ORD-10200,2025-05-14,2025-05-15,Central,Consumer,Standard Class,Office Supplies,Binders,4,133.74,0.0,51.07
+ORD-10201,2025-11-28,2025-12-01,West,Home Office,Standard Class,Technology,Monitors,3,1425.22,0.05,440.77
+ORD-10202,2025-06-30,2025-07-03,East,Consumer,First Class,Office Supplies,Labels,6,392.33,0.05,162.12
+ORD-10203,2025-09-13,2025-09-14,West,Corporate,Second Class,Technology,Phones,7,5136.56,0.05,1680.1
+ORD-10204,2025-06-16,2025-06-21,West,Consumer,Standard Class,Technology,Monitors,2,1077.9,0.2,334.38
+ORD-10205,2025-04-08,2025-04-13,South,Corporate,Second Class,Office Supplies,Labels,6,64.0,0.2,24.29
+ORD-10206,2025-10-06,2025-10-09,Central,Consumer,First Class,Office Supplies,Binders,6,522.81,0.05,207.59
+ORD-10207,2025-12-20,2025-12-24,East,Consumer,Standard Class,Technology,Accessories,1,331.34,0.1,98.92
+ORD-10208,2025-04-07,2025-04-10,Central,Consumer,Second Class,Office Supplies,Paper,3,193.49,0.1,79.36
+ORD-10209,2025-10-12,2025-10-15,Central,Consumer,Standard Class,Office Supplies,Art,4,145.55,0.15,49.15
+ORD-10210,2025-04-06,2025-04-07,Central,Corporate,Standard Class,Technology,Laptops,1,92.88,0.1,31.57
+ORD-10211,2025-09-19,2025-09-24,South,Consumer,Same Day,Technology,Monitors,7,4081.95,0.15,1514.68
+ORD-10212,2025-10-15,2025-10-16,West,Home Office,Second Class,Technology,Monitors,4,2308.11,0.05,605.4
+ORD-10213,2025-06-14,2025-06-17,West,Consumer,Standard Class,Furniture,Storage,3,207.33,0.05,69.61
+ORD-10214,2025-09-26,2025-09-30,West,Corporate,Same Day,Furniture,Tables,6,1404.85,0.1,426.6
+ORD-10215,2025-04-10,2025-04-13,East,Consumer,Standard Class,Technology,Accessories,6,2898.1,0.1,1089.04
+ORD-10216,2025-01-29,2025-01-31,East,Consumer,Standard Class,Technology,Phones,2,818.14,0.0,288.9
+ORD-10217,2025-02-05,2025-02-10,West,Consumer,Standard Class,Technology,Accessories,4,540.2,0.2,103.25
+ORD-10218,2025-06-13,2025-06-16,East,Home Office,Standard Class,Furniture,Bookcases,7,1423.76,0.2,307.43
+ORD-10219,2025-11-26,2025-12-01,South,Home Office,Standard Class,Furniture,Storage,3,1077.95,0.1,302.57
+ORD-10220,2025-02-16,2025-02-20,West,Home Office,Standard Class,Furniture,Tables,2,1099.38,0.0,385.29
+ORD-10221,2025-06-16,2025-06-20,South,Corporate,Standard Class,Furniture,Chairs,3,350.15,0.2,71.42
+ORD-10222,2025-09-14,2025-09-18,East,Consumer,Standard Class,Furniture,Bookcases,3,460.4,0.0,138.2
+ORD-10223,2025-03-15,2025-03-16,Central,Home Office,First Class,Technology,Phones,7,4516.37,0.1,1449.2
+ORD-10224,2025-09-21,2025-09-23,West,Home Office,First Class,Technology,Accessories,1,831.47,0.05,279.43
+ORD-10225,2025-04-22,2025-04-26,South,Consumer,Standard Class,Technology,Phones,2,314.69,0.15,79.56
+ORD-10226,2025-10-23,2025-10-28,Central,Corporate,Standard Class,Office Supplies,Binders,6,75.78,0.0,26.1
+ORD-10227,2025-07-31,2025-08-02,South,Corporate,First Class,Technology,Accessories,1,477.13,0.1,151.4
+ORD-10228,2025-07-19,2025-07-21,Central,Corporate,Standard Class,Office Supplies,Labels,1,84.65,0.1,26.06
+ORD-10229,2025-03-06,2025-03-10,West,Home Office,Second Class,Office Supplies,Binders,4,456.15,0.0,167.11
+ORD-10230,2025-06-19,2025-06-23,South,Consumer,Second Class,Technology,Phones,3,860.9,0.15,295.68
+ORD-10231,2025-11-09,2025-11-14,East,Consumer,Standard Class,Office Supplies,Paper,2,11.15,0.0,4.38
+ORD-10232,2025-01-08,2025-01-10,South,Consumer,Second Class,Furniture,Chairs,7,1540.56,0.2,221.09
+ORD-10233,2025-10-04,2025-10-07,South,Corporate,Second Class,Technology,Monitors,7,3898.39,0.05,821.84
+ORD-10234,2025-06-29,2025-07-02,Central,Consumer,Standard Class,Furniture,Chairs,2,252.3,0.05,84.95
+ORD-10235,2025-09-20,2025-09-22,South,Home Office,First Class,Office Supplies,Labels,5,178.7,0.0,48.61
+ORD-10236,2025-08-31,2025-09-01,South,Consumer,Standard Class,Office Supplies,Paper,6,564.54,0.15,235.17
+ORD-10237,2025-06-07,2025-06-09,West,Consumer,Standard Class,Office Supplies,Labels,3,343.86,0.0,154.5
+ORD-10238,2025-04-23,2025-04-26,South,Consumer,Second Class,Office Supplies,Paper,5,188.6,0.05,81.43
+ORD-10239,2025-08-17,2025-08-19,South,Consumer,Second Class,Furniture,Bookcases,6,699.46,0.05,174.04
+ORD-10240,2025-02-21,2025-02-23,West,Consumer,Second Class,Technology,Accessories,2,1708.07,0.0,525.44
+ORD-10241,2025-08-02,2025-08-04,Central,Consumer,First Class,Office Supplies,Art,1,119.54,0.0,41.49
+ORD-10242,2025-02-04,2025-02-07,South,Home Office,Standard Class,Office Supplies,Binders,6,274.16,0.0,113.32
+ORD-10243,2025-08-26,2025-08-31,East,Home Office,Standard Class,Technology,Phones,6,4702.22,0.1,1472.98
+ORD-10244,2025-08-18,2025-08-19,East,Corporate,Same Day,Technology,Laptops,2,1135.85,0.1,347.7
+ORD-10245,2025-01-31,2025-02-02,East,Corporate,Same Day,Furniture,Storage,6,771.76,0.0,184.61
+ORD-10246,2025-10-04,2025-10-07,West,Consumer,Standard Class,Office Supplies,Binders,2,151.06,0.05,55.87
+ORD-10247,2025-06-01,2025-06-06,Central,Corporate,First Class,Technology,Laptops,6,3675.01,0.0,1143.59
+ORD-10248,2025-10-15,2025-10-20,West,Corporate,First Class,Technology,Monitors,1,535.78,0.05,162.35
+ORD-10249,2025-01-16,2025-01-20,West,Home Office,Second Class,Technology,Phones,3,581.95,0.0,173.52
+ORD-10250,2025-03-07,2025-03-11,East,Corporate,Standard Class,Furniture,Chairs,4,408.87,0.05,117.01
+ORD-10251,2025-06-30,2025-07-01,South,Home Office,Standard Class,Office Supplies,Paper,1,82.64,0.15,29.02
+ORD-10252,2025-03-10,2025-03-11,West,Consumer,Standard Class,Office Supplies,Art,4,145.82,0.1,53.91
+ORD-10253,2025-05-01,2025-05-03,East,Consumer,Standard Class,Office Supplies,Binders,1,114.43,0.0,38.57
+ORD-10254,2025-08-30,2025-09-02,South,Corporate,First Class,Furniture,Chairs,5,1560.06,0.0,525.96
+ORD-10255,2025-02-22,2025-02-26,East,Consumer,Second Class,Technology,Laptops,1,404.0,0.05,139.72
+ORD-10256,2025-09-05,2025-09-08,West,Home Office,Second Class,Furniture,Bookcases,4,910.09,0.2,242.31
+ORD-10257,2025-02-07,2025-02-08,South,Consumer,Standard Class,Office Supplies,Paper,2,179.74,0.2,65.19
+ORD-10258,2025-03-05,2025-03-06,East,Corporate,Standard Class,Furniture,Tables,3,566.36,0.05,171.69
+ORD-10259,2025-08-03,2025-08-06,Central,Consumer,First Class,Furniture,Storage,7,3650.6,0.0,1286.37
+ORD-10260,2025-10-17,2025-10-21,West,Home Office,Standard Class,Furniture,Chairs,3,640.41,0.0,299.71
+ORD-10261,2025-03-04,2025-03-06,Central,Corporate,First Class,Office Supplies,Art,3,26.94,0.05,12.12
+ORD-10262,2025-04-20,2025-04-24,West,Corporate,Second Class,Furniture,Bookcases,4,779.65,0.1,215.96
+ORD-10263,2025-12-04,2025-12-09,South,Consumer,Standard Class,Office Supplies,Paper,1,21.39,0.1,8.81
+ORD-10264,2025-12-28,2026-01-02,West,Home Office,Standard Class,Technology,Accessories,7,5532.42,0.0,1901.31
+ORD-10265,2025-08-01,2025-08-05,West,Consumer,Standard Class,Office Supplies,Art,3,216.36,0.2,79.05
+ORD-10266,2025-06-13,2025-06-15,South,Consumer,First Class,Technology,Laptops,5,2164.13,0.15,634.23
+ORD-10267,2025-05-07,2025-05-10,East,Corporate,Standard Class,Furniture,Tables,4,693.9,0.1,234.13
+ORD-10268,2025-08-12,2025-08-16,Central,Consumer,Second Class,Technology,Laptops,6,2460.86,0.0,681.05
+ORD-10269,2025-08-04,2025-08-06,South,Corporate,Same Day,Office Supplies,Labels,4,162.68,0.05,63.9
+ORD-10270,2025-04-18,2025-04-23,East,Consumer,Standard Class,Furniture,Tables,2,359.89,0.15,83.83
+ORD-10271,2025-01-09,2025-01-14,South,Consumer,Standard Class,Office Supplies,Labels,2,217.53,0.0,81.3
+ORD-10272,2025-02-25,2025-03-02,East,Consumer,Second Class,Furniture,Tables,6,2029.51,0.05,824.65
+ORD-10273,2025-12-16,2025-12-19,South,Consumer,Second Class,Furniture,Tables,5,2266.27,0.1,806.0
+ORD-10274,2025-06-02,2025-06-07,South,Corporate,Second Class,Office Supplies,Binders,6,156.57,0.1,70.46
+ORD-10275,2025-06-26,2025-06-30,South,Consumer,First Class,Office Supplies,Binders,2,196.14,0.05,64.45
+ORD-10276,2025-06-20,2025-06-21,South,Corporate,Standard Class,Technology,Accessories,5,2976.59,0.2,715.5
+ORD-10277,2025-10-13,2025-10-14,Central,Corporate,Second Class,Office Supplies,Labels,6,330.98,0.15,96.28
+ORD-10278,2025-01-24,2025-01-25,West,Consumer,Standard Class,Furniture,Storage,4,1148.14,0.0,476.51
+ORD-10279,2025-01-31,2025-02-01,Central,Consumer,Second Class,Office Supplies,Binders,6,324.34,0.2,145.95
+ORD-10280,2025-04-11,2025-04-13,West,Home Office,Standard Class,Technology,Accessories,4,2958.72,0.05,908.23
+ORD-10281,2025-06-27,2025-06-30,West,Home Office,Second Class,Office Supplies,Paper,3,327.05,0.0,116.07
+ORD-10282,2025-09-02,2025-09-05,West,Home Office,Standard Class,Office Supplies,Labels,7,268.07,0.05,112.66
+ORD-10283,2025-06-29,2025-07-03,West,Corporate,Standard Class,Office Supplies,Paper,1,70.47,0.2,32.95
+ORD-10284,2025-06-11,2025-06-14,Central,Consumer,First Class,Furniture,Chairs,4,1804.22,0.0,480.31
+ORD-10285,2025-12-09,2025-12-10,Central,Consumer,Standard Class,Office Supplies,Labels,2,225.18,0.0,91.34
+ORD-10286,2025-02-28,2025-03-02,East,Corporate,Standard Class,Technology,Accessories,2,1051.78,0.1,225.76
+ORD-10287,2025-07-28,2025-07-31,Central,Corporate,Standard Class,Technology,Laptops,6,3672.58,0.2,954.04
+ORD-10288,2025-07-17,2025-07-19,East,Home Office,Second Class,Office Supplies,Binders,2,20.58,0.15,9.26
+ORD-10289,2025-06-22,2025-06-23,West,Consumer,First Class,Furniture,Storage,5,2021.11,0.05,527.46
+ORD-10290,2025-10-22,2025-10-25,East,Consumer,Standard Class,Office Supplies,Labels,3,66.21,0.05,25.97
+ORD-10291,2025-04-08,2025-04-10,Central,Home Office,Second Class,Technology,Laptops,3,1209.1,0.05,319.87
+ORD-10292,2025-12-15,2025-12-16,West,Consumer,First Class,Furniture,Storage,5,970.13,0.05,341.86
+ORD-10293,2025-05-02,2025-05-03,West,Consumer,Standard Class,Technology,Accessories,6,2082.61,0.05,519.16
+ORD-10294,2025-07-18,2025-07-19,West,Corporate,Standard Class,Furniture,Bookcases,1,60.96,0.05,19.86
+ORD-10295,2025-07-10,2025-07-12,South,Consumer,Standard Class,Furniture,Chairs,5,1121.61,0.15,253.75
+ORD-10296,2025-11-07,2025-11-11,Central,Home Office,Second Class,Office Supplies,Art,6,322.1,0.1,128.38
+ORD-10297,2025-06-10,2025-06-12,Central,Corporate,Same Day,Furniture,Storage,5,1704.12,0.2,469.83
+ORD-10298,2025-04-14,2025-04-19,Central,Consumer,Second Class,Furniture,Storage,2,530.04,0.0,160.39
+ORD-10299,2025-01-08,2025-01-10,South,Consumer,First Class,Technology,Accessories,6,1318.8,0.1,368.63
+ORD-10300,2025-05-13,2025-05-18,West,Consumer,First Class,Furniture,Tables,3,1631.91,0.0,631.97
+ORD-10301,2025-10-29,2025-11-02,West,Consumer,Second Class,Office Supplies,Binders,3,212.36,0.15,81.41
+ORD-10302,2025-01-04,2025-01-08,East,Corporate,Same Day,Furniture,Tables,5,2332.1,0.0,765.59
+ORD-10303,2025-11-24,2025-11-26,East,Consumer,Second Class,Office Supplies,Labels,1,20.39,0.1,8.1
+ORD-10304,2025-07-18,2025-07-21,West,Consumer,Standard Class,Office Supplies,Paper,6,152.96,0.0,58.42
+ORD-10305,2025-02-21,2025-02-22,Central,Corporate,Second Class,Office Supplies,Art,6,310.95,0.05,117.43
+ORD-10306,2025-04-21,2025-04-22,Central,Corporate,Second Class,Technology,Laptops,5,2346.49,0.1,712.64
+ORD-10307,2025-07-22,2025-07-25,South,Consumer,Second Class,Office Supplies,Paper,6,300.15,0.1,121.29
+ORD-10308,2025-04-26,2025-04-29,South,Corporate,Second Class,Office Supplies,Paper,2,107.88,0.15,39.93
+ORD-10309,2025-02-09,2025-02-11,West,Consumer,Standard Class,Technology,Laptops,6,3278.46,0.05,826.76
+ORD-10310,2025-09-01,2025-09-05,East,Corporate,Standard Class,Technology,Laptops,4,3261.87,0.05,1220.88
+ORD-10311,2025-09-03,2025-09-08,East,Consumer,Standard Class,Furniture,Tables,5,204.92,0.0,70.46
+ORD-10312,2025-02-13,2025-02-16,South,Consumer,Same Day,Office Supplies,Art,7,575.01,0.2,225.69
+ORD-10313,2025-04-13,2025-04-17,West,Corporate,First Class,Office Supplies,Binders,7,142.46,0.0,55.8
+ORD-10314,2025-03-31,2025-04-01,West,Consumer,Second Class,Office Supplies,Labels,5,288.6,0.15,121.57
+ORD-10315,2025-08-29,2025-09-01,West,Consumer,Standard Class,Office Supplies,Paper,3,163.52,0.0,74.55
+ORD-10316,2025-09-24,2025-09-26,East,Corporate,Standard Class,Furniture,Tables,7,698.13,0.1,271.67
+ORD-10317,2025-09-23,2025-09-27,West,Consumer,Standard Class,Technology,Accessories,3,1464.33,0.0,482.91
+ORD-10318,2025-12-09,2025-12-13,Central,Consumer,Standard Class,Furniture,Storage,2,304.99,0.2,60.7
+ORD-10319,2025-10-08,2025-10-09,South,Home Office,Same Day,Technology,Accessories,5,1821.12,0.1,554.54
+ORD-10320,2025-04-28,2025-05-01,West,Consumer,Standard Class,Furniture,Tables,1,473.82,0.1,123.03
+ORD-10321,2025-02-09,2025-02-13,East,Consumer,Standard Class,Technology,Laptops,7,1061.33,0.0,421.33
+ORD-10322,2025-08-13,2025-08-15,West,Home Office,Same Day,Technology,Phones,2,1678.25,0.05,621.56
+ORD-10323,2025-12-01,2025-12-05,West,Consumer,Standard Class,Technology,Laptops,5,1677.76,0.1,603.76
+ORD-10324,2025-12-22,2025-12-26,East,Corporate,Standard Class,Furniture,Storage,2,925.53,0.1,265.36
+ORD-10325,2025-03-26,2025-03-27,East,Corporate,Standard Class,Furniture,Tables,7,2801.17,0.2,588.59
+ORD-10326,2025-03-28,2025-04-02,Central,Corporate,Standard Class,Office Supplies,Art,4,73.2,0.05,25.97
+ORD-10327,2025-01-14,2025-01-15,Central,Consumer,Second Class,Furniture,Storage,5,1425.43,0.0,454.29
+ORD-10328,2025-02-21,2025-02-24,South,Corporate,Standard Class,Office Supplies,Paper,7,216.72,0.2,87.12
+ORD-10329,2025-07-22,2025-07-23,South,Consumer,Second Class,Office Supplies,Labels,2,135.92,0.2,51.0
+ORD-10330,2025-07-19,2025-07-20,West,Consumer,Standard Class,Furniture,Tables,5,1855.48,0.0,677.52
+ORD-10331,2025-05-16,2025-05-21,South,Consumer,Standard Class,Technology,Phones,7,3655.44,0.0,838.62
+ORD-10332,2025-04-24,2025-04-27,East,Consumer,Standard Class,Office Supplies,Art,6,403.09,0.2,163.61
+ORD-10333,2025-10-30,2025-11-03,West,Home Office,Standard Class,Furniture,Bookcases,7,3370.33,0.05,952.08
+ORD-10334,2025-06-17,2025-06-20,South,Consumer,Second Class,Office Supplies,Art,4,193.95,0.2,69.49
+ORD-10335,2025-10-23,2025-10-26,Central,Consumer,Standard Class,Furniture,Storage,6,2718.33,0.1,964.08
+ORD-10336,2025-12-18,2025-12-19,East,Corporate,First Class,Furniture,Chairs,4,1604.92,0.1,527.78
+ORD-10337,2025-04-26,2025-04-29,West,Consumer,Second Class,Furniture,Tables,6,954.71,0.05,282.31
+ORD-10338,2025-03-15,2025-03-16,Central,Consumer,Standard Class,Furniture,Chairs,1,261.06,0.15,59.16
+ORD-10339,2025-12-14,2025-12-17,East,Consumer,Standard Class,Technology,Accessories,5,4127.05,0.05,1237.22
+ORD-10340,2025-08-20,2025-08-25,Central,Corporate,First Class,Furniture,Tables,5,472.35,0.1,161.57
+ORD-10341,2025-04-17,2025-04-18,East,Consumer,Standard Class,Technology,Monitors,2,1279.49,0.05,372.31
+ORD-10342,2025-08-15,2025-08-17,East,Consumer,Standard Class,Technology,Laptops,7,4409.6,0.15,1228.11
+ORD-10343,2025-07-07,2025-07-09,West,Consumer,Second Class,Technology,Laptops,2,896.94,0.0,291.3
+ORD-10344,2025-11-27,2025-12-02,South,Consumer,Standard Class,Technology,Laptops,7,2107.84,0.15,482.99
+ORD-10345,2025-04-04,2025-04-08,West,Home Office,Standard Class,Furniture,Chairs,4,282.16,0.05,43.22
+ORD-10346,2025-12-28,2026-01-01,Central,Consumer,Standard Class,Office Supplies,Art,6,619.6,0.0,196.58
+ORD-10347,2025-12-08,2025-12-13,East,Consumer,Standard Class,Furniture,Storage,1,44.44,0.2,9.13
+ORD-10348,2025-03-07,2025-03-10,West,Home Office,Second Class,Office Supplies,Art,7,587.76,0.15,236.14
+ORD-10349,2025-03-02,2025-03-03,Central,Home Office,Standard Class,Furniture,Storage,7,2837.77,0.15,627.79
+ORD-10350,2025-07-14,2025-07-16,East,Home Office,Standard Class,Furniture,Chairs,5,676.61,0.1,188.71
+ORD-10351,2025-01-17,2025-01-20,South,Home Office,Standard Class,Technology,Laptops,2,1013.79,0.1,256.46
+ORD-10352,2025-04-20,2025-04-22,East,Consumer,Second Class,Office Supplies,Paper,3,208.32,0.1,75.48
+ORD-10353,2025-06-08,2025-06-12,East,Corporate,Same Day,Office Supplies,Paper,6,538.85,0.1,122.02
+ORD-10354,2025-12-20,2025-12-25,South,Consumer,Second Class,Technology,Monitors,2,1230.15,0.2,403.55
+ORD-10355,2025-12-29,2026-01-01,East,Consumer,Standard Class,Office Supplies,Paper,6,104.38,0.1,45.14
+ORD-10356,2025-02-25,2025-02-28,South,Home Office,Standard Class,Office Supplies,Paper,7,81.02,0.1,33.35
+ORD-10357,2025-11-22,2025-11-26,Central,Consumer,Standard Class,Office Supplies,Labels,5,323.35,0.2,133.65
+ORD-10358,2025-02-03,2025-02-06,East,Consumer,Standard Class,Furniture,Storage,5,1355.14,0.1,406.91
+ORD-10359,2025-10-01,2025-10-03,Central,Consumer,Standard Class,Technology,Accessories,6,1269.9,0.2,385.02
+ORD-10360,2025-11-05,2025-11-08,South,Consumer,Second Class,Technology,Monitors,6,2881.48,0.05,622.21
+ORD-10361,2025-11-22,2025-11-23,Central,Corporate,Second Class,Technology,Monitors,4,972.7,0.2,271.86
+ORD-10362,2025-03-23,2025-03-25,West,Consumer,Second Class,Office Supplies,Labels,2,169.47,0.1,66.57
+ORD-10363,2025-11-23,2025-11-25,West,Consumer,Second Class,Furniture,Chairs,2,466.85,0.0,178.03
+ORD-10364,2025-02-12,2025-02-14,Central,Home Office,Standard Class,Technology,Monitors,3,1656.55,0.0,416.01
+ORD-10365,2025-07-09,2025-07-10,West,Home Office,First Class,Technology,Phones,4,1640.19,0.1,447.05
+ORD-10366,2025-06-21,2025-06-25,South,Corporate,Standard Class,Office Supplies,Art,7,505.17,0.0,215.98
+ORD-10367,2025-04-26,2025-04-27,West,Home Office,Standard Class,Furniture,Tables,7,2630.94,0.0,814.25
+ORD-10368,2025-01-09,2025-01-14,East,Consumer,Second Class,Technology,Laptops,5,2079.13,0.2,739.52
+ORD-10369,2025-10-09,2025-10-13,West,Home Office,Standard Class,Office Supplies,Art,3,179.19,0.1,66.99
+ORD-10370,2025-05-03,2025-05-07,West,Consumer,Standard Class,Office Supplies,Art,1,93.61,0.0,40.23
+ORD-10371,2025-08-30,2025-08-31,East,Consumer,Standard Class,Furniture,Bookcases,7,1284.66,0.1,414.65
+ORD-10372,2025-05-30,2025-06-04,West,Consumer,Standard Class,Technology,Accessories,1,670.52,0.05,182.46
+ORD-10373,2025-05-17,2025-05-19,South,Corporate,Second Class,Office Supplies,Labels,6,223.93,0.1,100.77
+ORD-10374,2025-11-20,2025-11-21,South,Home Office,Standard Class,Furniture,Chairs,1,51.86,0.2,14.15
+ORD-10375,2025-02-04,2025-02-06,Central,Consumer,Second Class,Technology,Phones,4,496.09,0.1,138.74
+ORD-10376,2025-09-26,2025-09-29,South,Consumer,Second Class,Office Supplies,Labels,6,186.34,0.15,70.7
+ORD-10377,2025-09-30,2025-10-02,East,Corporate,Second Class,Office Supplies,Art,4,159.4,0.15,59.79
+ORD-10378,2025-05-19,2025-05-20,West,Consumer,Second Class,Office Supplies,Labels,1,106.06,0.1,41.83
+ORD-10379,2025-04-06,2025-04-09,South,Home Office,Standard Class,Office Supplies,Art,7,164.1,0.2,71.41
+ORD-10380,2025-01-02,2025-01-07,West,Corporate,First Class,Technology,Monitors,3,2533.66,0.05,594.78
+ORD-10381,2025-12-08,2025-12-12,Central,Home Office,Standard Class,Technology,Laptops,1,462.96,0.0,100.18
+ORD-10382,2025-12-12,2025-12-15,East,Home Office,Second Class,Furniture,Bookcases,4,325.48,0.15,84.94
+ORD-10383,2025-03-29,2025-03-31,West,Consumer,Standard Class,Technology,Laptops,4,2202.41,0.1,608.12
+ORD-10384,2025-01-12,2025-01-17,East,Consumer,Standard Class,Technology,Accessories,2,607.62,0.0,161.86
+ORD-10385,2025-02-14,2025-02-17,Central,Consumer,Standard Class,Office Supplies,Paper,5,78.06,0.1,33.09
+ORD-10386,2025-01-25,2025-01-29,West,Consumer,Second Class,Office Supplies,Labels,7,262.63,0.15,110.71
+ORD-10387,2025-10-31,2025-11-01,East,Consumer,Second Class,Technology,Laptops,5,728.11,0.15,236.57
+ORD-10388,2025-11-22,2025-11-26,South,Home Office,Standard Class,Technology,Phones,6,1602.0,0.15,520.49
+ORD-10389,2025-02-25,2025-02-28,Central,Consumer,Second Class,Office Supplies,Binders,3,226.1,0.2,71.2
+ORD-10390,2025-09-30,2025-10-02,East,Consumer,Standard Class,Furniture,Storage,3,319.65,0.15,63.13
+ORD-10391,2025-03-07,2025-03-10,South,Consumer,Standard Class,Office Supplies,Art,3,152.23,0.1,57.93
+ORD-10392,2025-05-15,2025-05-19,West,Home Office,Standard Class,Furniture,Storage,1,199.29,0.2,34.39
+ORD-10393,2025-08-07,2025-08-08,South,Corporate,Standard Class,Office Supplies,Binders,3,78.92,0.15,32.91
+ORD-10394,2025-09-20,2025-09-25,West,Corporate,First Class,Technology,Laptops,1,162.32,0.05,73.8
+ORD-10395,2025-11-16,2025-11-21,West,Home Office,Standard Class,Furniture,Storage,7,1870.57,0.1,696.95
+ORD-10396,2025-01-17,2025-01-21,South,Consumer,Second Class,Technology,Accessories,5,2888.72,0.05,798.66
+ORD-10397,2025-03-13,2025-03-15,East,Consumer,Second Class,Furniture,Chairs,4,1623.4,0.2,258.36
+ORD-10398,2025-04-13,2025-04-18,East,Corporate,Standard Class,Technology,Accessories,6,534.64,0.05,128.34
+ORD-10399,2025-04-24,2025-04-26,Central,Corporate,Standard Class,Furniture,Chairs,2,469.1,0.15,108.28
+ORD-10400,2025-12-31,2026-01-04,South,Corporate,Second Class,Furniture,Tables,4,2078.85,0.0,553.07
+ORD-10401,2025-10-11,2025-10-15,South,Corporate,Standard Class,Furniture,Bookcases,4,999.01,0.0,292.12
+ORD-10402,2025-04-27,2025-05-02,South,Consumer,Second Class,Office Supplies,Labels,7,700.37,0.0,267.72
+ORD-10403,2025-12-21,2025-12-24,Central,Consumer,Standard Class,Technology,Laptops,5,1816.96,0.1,522.93
+ORD-10404,2025-07-02,2025-07-05,South,Home Office,Standard Class,Office Supplies,Binders,2,104.85,0.1,42.31
+ORD-10405,2025-07-02,2025-07-06,Central,Consumer,First Class,Furniture,Tables,7,1260.98,0.05,387.73
+ORD-10406,2025-06-08,2025-06-11,South,Corporate,Standard Class,Furniture,Bookcases,2,291.02,0.05,51.55
+ORD-10407,2025-02-22,2025-02-27,South,Consumer,First Class,Furniture,Chairs,1,315.58,0.2,50.38
+ORD-10408,2025-12-08,2025-12-12,West,Corporate,Standard Class,Technology,Phones,4,887.81,0.15,201.87
+ORD-10409,2025-01-06,2025-01-11,Central,Corporate,Second Class,Technology,Phones,3,539.36,0.0,131.25
+ORD-10410,2025-03-05,2025-03-09,West,Home Office,Second Class,Furniture,Storage,7,3387.54,0.05,1055.38
+ORD-10411,2025-03-25,2025-03-28,West,Consumer,Standard Class,Office Supplies,Paper,5,414.62,0.1,176.51
+ORD-10412,2025-04-12,2025-04-16,East,Consumer,Second Class,Technology,Phones,5,2989.84,0.0,937.66
+ORD-10413,2025-02-18,2025-02-22,Central,Corporate,First Class,Furniture,Storage,6,937.1,0.0,350.83
+ORD-10414,2025-01-07,2025-01-09,Central,Consumer,Standard Class,Technology,Monitors,2,1198.81,0.1,427.74
+ORD-10415,2025-09-05,2025-09-09,West,Consumer,Standard Class,Technology,Laptops,5,2523.89,0.15,966.2
+ORD-10416,2025-12-20,2025-12-21,East,Home Office,First Class,Furniture,Chairs,4,616.83,0.0,181.71
+ORD-10417,2025-02-14,2025-02-15,East,Home Office,Standard Class,Office Supplies,Paper,4,165.12,0.1,72.99
+ORD-10418,2025-04-19,2025-04-23,West,Corporate,Standard Class,Technology,Monitors,4,2494.4,0.0,669.13
+ORD-10419,2025-07-04,2025-07-07,South,Consumer,Standard Class,Office Supplies,Labels,5,131.34,0.05,51.82
+ORD-10420,2025-12-05,2025-12-08,West,Home Office,First Class,Furniture,Tables,5,1624.74,0.1,435.9
+ORD-10421,2025-09-11,2025-09-12,East,Consumer,First Class,Furniture,Tables,1,282.92,0.2,80.49
+ORD-10422,2025-10-07,2025-10-12,West,Consumer,Standard Class,Office Supplies,Labels,6,719.24,0.0,246.99
+ORD-10423,2025-08-01,2025-08-02,East,Consumer,Second Class,Office Supplies,Binders,6,368.1,0.1,165.65
+ORD-10424,2025-06-02,2025-06-04,East,Consumer,Standard Class,Technology,Accessories,2,1588.35,0.05,416.59
+ORD-10425,2025-03-14,2025-03-19,West,Consumer,Standard Class,Technology,Accessories,5,1249.84,0.05,324.38
+ORD-10426,2025-11-12,2025-11-17,West,Consumer,Same Day,Technology,Phones,5,1676.62,0.2,517.22
+ORD-10427,2025-10-21,2025-10-24,West,Consumer,Same Day,Office Supplies,Paper,1,85.18,0.15,37.7
+ORD-10428,2025-01-10,2025-01-13,South,Home Office,Standard Class,Technology,Accessories,1,182.8,0.15,43.62
+ORD-10429,2025-09-19,2025-09-23,Central,Consumer,First Class,Office Supplies,Art,2,113.77,0.1,45.84
+ORD-10430,2025-01-31,2025-02-04,South,Consumer,Standard Class,Furniture,Tables,4,1928.56,0.05,541.84
+ORD-10431,2025-09-27,2025-09-28,Central,Corporate,Standard Class,Furniture,Chairs,2,845.66,0.1,303.45
+ORD-10432,2025-10-29,2025-11-02,Central,Home Office,Standard Class,Office Supplies,Paper,3,242.16,0.0,80.37
+ORD-10433,2025-02-17,2025-02-20,East,Consumer,Second Class,Technology,Laptops,3,982.35,0.0,315.55
+ORD-10434,2025-06-08,2025-06-12,West,Corporate,Standard Class,Office Supplies,Paper,6,392.46,0.15,150.62
+ORD-10435,2025-02-15,2025-02-18,East,Consumer,Standard Class,Technology,Laptops,7,3902.67,0.1,936.29
+ORD-10436,2025-07-27,2025-07-28,West,Home Office,Second Class,Office Supplies,Paper,1,17.17,0.1,7.01
+ORD-10437,2025-12-05,2025-12-07,West,Corporate,Standard Class,Furniture,Storage,7,887.72,0.0,290.83
+ORD-10438,2025-01-30,2025-02-01,East,Consumer,Standard Class,Technology,Phones,7,1868.53,0.05,648.4
+ORD-10439,2025-05-26,2025-05-29,West,Consumer,Standard Class,Technology,Phones,3,458.81,0.05,136.84
+ORD-10440,2025-12-22,2025-12-24,East,Home Office,First Class,Technology,Phones,2,743.17,0.1,178.53
+ORD-10441,2025-04-20,2025-04-22,South,Consumer,Standard Class,Furniture,Chairs,1,247.49,0.1,85.51
+ORD-10442,2025-02-18,2025-02-23,West,Consumer,Standard Class,Technology,Accessories,6,3992.26,0.1,1274.55
+ORD-10443,2025-06-28,2025-07-03,South,Corporate,Standard Class,Technology,Phones,7,2273.76,0.15,623.84
+ORD-10444,2025-07-05,2025-07-08,Central,Home Office,First Class,Furniture,Tables,7,2533.51,0.15,645.15
+ORD-10445,2025-08-30,2025-08-31,West,Home Office,Standard Class,Office Supplies,Art,7,457.55,0.05,214.14
+ORD-10446,2025-04-25,2025-04-29,Central,Corporate,Second Class,Technology,Accessories,4,2122.17,0.05,369.72
+ORD-10447,2025-12-15,2025-12-19,South,Consumer,Standard Class,Furniture,Bookcases,3,542.13,0.05,156.77
+ORD-10448,2025-07-10,2025-07-14,South,Consumer,Standard Class,Technology,Monitors,3,321.55,0.05,74.97
+ORD-10449,2025-04-15,2025-04-19,East,Consumer,Standard Class,Office Supplies,Art,7,265.0,0.15,119.25
+ORD-10450,2025-12-17,2025-12-21,West,Corporate,Second Class,Technology,Phones,2,1189.4,0.05,394.76
+ORD-10451,2025-12-04,2025-12-08,West,Consumer,Second Class,Furniture,Storage,6,734.03,0.15,178.35
+ORD-10452,2025-07-02,2025-07-06,Central,Corporate,Standard Class,Office Supplies,Labels,7,553.91,0.0,206.72
+ORD-10453,2025-01-10,2025-01-15,Central,Consumer,First Class,Office Supplies,Labels,1,119.66,0.0,40.36
+ORD-10454,2025-08-06,2025-08-08,West,Corporate,Standard Class,Office Supplies,Art,5,361.77,0.15,169.31
+ORD-10455,2025-07-22,2025-07-27,East,Consumer,Standard Class,Office Supplies,Binders,3,317.28,0.1,111.99
+ORD-10456,2025-02-24,2025-02-26,West,Corporate,Standard Class,Furniture,Tables,3,427.84,0.0,152.17
+ORD-10457,2025-08-20,2025-08-22,East,Consumer,First Class,Furniture,Bookcases,7,1243.02,0.15,201.4
+ORD-10458,2025-11-03,2025-11-08,East,Consumer,Standard Class,Technology,Laptops,7,2695.46,0.2,701.18
+ORD-10459,2025-02-08,2025-02-11,Central,Corporate,Standard Class,Office Supplies,Labels,1,89.14,0.0,39.14
+ORD-10460,2025-09-22,2025-09-25,East,Consumer,First Class,Technology,Laptops,7,4996.38,0.05,1225.44
+ORD-10461,2025-02-21,2025-02-25,West,Consumer,Second Class,Furniture,Tables,4,2060.58,0.0,643.01
+ORD-10462,2025-10-01,2025-10-06,South,Consumer,Standard Class,Technology,Laptops,1,583.74,0.15,157.6
+ORD-10463,2025-06-02,2025-06-04,South,Consumer,Same Day,Technology,Accessories,6,3455.86,0.1,796.33
+ORD-10464,2025-01-03,2025-01-07,East,Consumer,Standard Class,Office Supplies,Labels,1,106.26,0.0,40.71
+ORD-10465,2025-12-19,2025-12-24,South,Consumer,Standard Class,Technology,Accessories,4,1141.67,0.0,323.41
+ORD-10466,2025-03-02,2025-03-05,East,Corporate,First Class,Technology,Accessories,4,1282.7,0.15,280.58
+ORD-10467,2025-08-06,2025-08-11,West,Consumer,Standard Class,Furniture,Chairs,2,248.94,0.1,101.26
+ORD-10468,2025-03-08,2025-03-11,South,Consumer,First Class,Technology,Laptops,4,1126.09,0.15,414.57
+ORD-10469,2025-12-07,2025-12-09,West,Home Office,Second Class,Furniture,Storage,4,730.84,0.2,156.81
+ORD-10470,2025-09-27,2025-09-29,South,Consumer,Same Day,Furniture,Tables,5,1815.31,0.05,690.8
+ORD-10471,2025-10-21,2025-10-23,South,Home Office,Standard Class,Technology,Phones,4,2392.86,0.05,850.36
+ORD-10472,2025-06-07,2025-06-09,West,Corporate,Standard Class,Technology,Monitors,7,1674.14,0.0,488.01
+ORD-10473,2025-06-20,2025-06-25,East,Home Office,Second Class,Technology,Monitors,2,1323.83,0.05,428.28
+ORD-10474,2025-08-20,2025-08-25,South,Consumer,Standard Class,Office Supplies,Paper,7,604.68,0.1,240.7
+ORD-10475,2025-10-14,2025-10-17,Central,Consumer,Second Class,Office Supplies,Art,4,346.2,0.2,126.82
+ORD-10476,2025-11-06,2025-11-11,South,Consumer,Second Class,Furniture,Chairs,1,362.3,0.1,115.64
+ORD-10477,2025-01-07,2025-01-10,Central,Corporate,Standard Class,Furniture,Chairs,5,1836.2,0.0,637.58
+ORD-10478,2025-08-31,2025-09-03,East,Consumer,Standard Class,Office Supplies,Art,6,79.08,0.0,33.78
+ORD-10479,2025-02-09,2025-02-13,East,Corporate,Standard Class,Office Supplies,Paper,1,76.61,0.0,34.47
+ORD-10480,2025-04-16,2025-04-20,East,Home Office,Standard Class,Technology,Monitors,4,2257.74,0.0,723.16
+ORD-10481,2025-10-30,2025-11-02,South,Consumer,Standard Class,Technology,Monitors,3,531.92,0.05,144.51
+ORD-10482,2025-04-02,2025-04-04,South,Home Office,Standard Class,Office Supplies,Art,6,653.62,0.0,294.13
+ORD-10483,2025-10-18,2025-10-21,Central,Consumer,Standard Class,Furniture,Storage,6,286.48,0.0,94.15
+ORD-10484,2025-06-18,2025-06-21,East,Corporate,First Class,Office Supplies,Paper,4,61.59,0.2,27.72
+ORD-10485,2025-03-26,2025-03-29,East,Consumer,Second Class,Office Supplies,Binders,5,507.6,0.0,169.42
+ORD-10486,2025-05-02,2025-05-06,Central,Corporate,Standard Class,Office Supplies,Labels,4,478.51,0.0,199.83
+ORD-10487,2025-07-13,2025-07-18,East,Home Office,First Class,Technology,Monitors,6,3496.5,0.05,923.03
+ORD-10488,2025-10-07,2025-10-08,Central,Consumer,Same Day,Office Supplies,Binders,5,523.06,0.05,235.38
+ORD-10489,2025-08-10,2025-08-11,Central,Corporate,Standard Class,Office Supplies,Art,1,116.25,0.0,45.96
+ORD-10490,2025-12-07,2025-12-09,East,Corporate,Standard Class,Office Supplies,Paper,6,66.68,0.0,24.66
+ORD-10491,2025-11-13,2025-11-17,West,Consumer,Standard Class,Office Supplies,Art,6,495.47,0.15,231.88
+ORD-10492,2025-10-02,2025-10-03,East,Corporate,Standard Class,Furniture,Tables,2,135.5,0.2,39.78
+ORD-10493,2025-08-09,2025-08-14,South,Home Office,First Class,Technology,Monitors,6,2758.09,0.0,1041.15
+ORD-10494,2025-04-16,2025-04-20,West,Home Office,Second Class,Office Supplies,Binders,5,317.06,0.15,123.36
+ORD-10495,2025-05-31,2025-06-04,South,Home Office,Standard Class,Office Supplies,Art,3,211.87,0.15,78.57
+ORD-10496,2025-02-13,2025-02-16,East,Consumer,Standard Class,Office Supplies,Binders,3,263.72,0.0,84.77
+ORD-10497,2025-05-17,2025-05-21,West,Corporate,First Class,Office Supplies,Binders,3,216.37,0.1,94.64
+ORD-10498,2025-12-05,2025-12-09,West,Consumer,Standard Class,Office Supplies,Labels,4,252.91,0.1,100.39
+ORD-10499,2025-06-05,2025-06-10,East,Corporate,Same Day,Technology,Monitors,6,507.1,0.15,130.01
+ORD-10500,2025-02-11,2025-02-14,West,Corporate,Standard Class,Furniture,Tables,4,1575.33,0.05,633.66
+ORD-10501,2025-08-26,2025-08-27,East,Corporate,Standard Class,Technology,Accessories,5,931.84,0.1,225.24
+ORD-10502,2025-12-18,2025-12-22,West,Consumer,First Class,Office Supplies,Labels,2,18.68,0.05,7.2
+ORD-10503,2025-11-13,2025-11-18,Central,Corporate,Standard Class,Technology,Monitors,4,348.8,0.15,87.79
+ORD-10504,2025-04-11,2025-04-15,East,Consumer,First Class,Technology,Laptops,6,2490.45,0.1,624.46
+ORD-10505,2025-06-15,2025-06-17,East,Corporate,Standard Class,Office Supplies,Binders,5,401.1,0.15,180.17
+ORD-10506,2025-07-13,2025-07-14,South,Consumer,Second Class,Furniture,Bookcases,1,389.21,0.15,93.21
+ORD-10507,2025-04-01,2025-04-04,West,Consumer,Standard Class,Technology,Monitors,2,470.3,0.15,119.81
+ORD-10508,2025-04-09,2025-04-11,Central,Consumer,Standard Class,Furniture,Storage,2,684.7,0.1,199.51
+ORD-10509,2025-03-28,2025-03-31,East,Consumer,Second Class,Furniture,Tables,6,2284.25,0.0,754.29
+ORD-10510,2025-12-30,2026-01-03,South,Consumer,First Class,Furniture,Chairs,3,1016.43,0.05,366.49
+ORD-10511,2025-09-30,2025-10-02,Central,Consumer,Second Class,Office Supplies,Art,3,169.02,0.1,53.76
+ORD-10512,2025-11-03,2025-11-06,West,Consumer,Standard Class,Technology,Accessories,5,3865.63,0.1,1294.82
+ORD-10513,2025-10-26,2025-10-31,West,Corporate,First Class,Furniture,Storage,1,245.06,0.1,75.41
+ORD-10514,2025-12-17,2025-12-20,South,Home Office,First Class,Technology,Laptops,4,3131.75,0.0,873.37
+ORD-10515,2025-02-08,2025-02-13,East,Home Office,Second Class,Technology,Laptops,5,3751.73,0.15,903.69
+ORD-10516,2025-11-18,2025-11-20,East,Home Office,Standard Class,Office Supplies,Labels,2,38.62,0.0,12.77
+ORD-10517,2025-01-25,2025-01-28,West,Consumer,Standard Class,Office Supplies,Labels,3,322.97,0.1,133.72
+ORD-10518,2025-06-23,2025-06-28,West,Corporate,Standard Class,Furniture,Bookcases,1,473.02,0.0,143.29
+ORD-10519,2025-08-05,2025-08-08,Central,Home Office,Second Class,Furniture,Chairs,7,1456.1,0.15,387.55
+ORD-10520,2025-05-11,2025-05-15,East,Home Office,Standard Class,Technology,Laptops,3,244.44,0.1,68.69
+ORD-10521,2025-02-23,2025-02-26,Central,Consumer,Standard Class,Technology,Phones,1,133.47,0.1,29.2
+ORD-10522,2025-03-12,2025-03-13,East,Consumer,Second Class,Furniture,Chairs,6,3215.73,0.0,960.41
+ORD-10523,2025-10-29,2025-11-03,South,Consumer,First Class,Technology,Accessories,2,864.59,0.0,159.62
+ORD-10524,2025-04-27,2025-04-30,West,Consumer,Same Day,Furniture,Bookcases,1,428.96,0.0,113.66
+ORD-10525,2025-04-24,2025-04-25,West,Corporate,Standard Class,Technology,Laptops,7,2145.96,0.1,901.5
+ORD-10526,2025-12-04,2025-12-08,South,Consumer,Standard Class,Technology,Phones,5,1412.33,0.0,463.68
+ORD-10527,2025-02-22,2025-02-26,East,Corporate,Second Class,Technology,Laptops,5,3034.95,0.15,767.05
+ORD-10528,2025-12-01,2025-12-02,West,Consumer,Standard Class,Office Supplies,Binders,3,13.09,0.2,5.98
+ORD-10529,2025-12-03,2025-12-07,South,Home Office,Second Class,Furniture,Bookcases,5,865.22,0.2,178.71
+ORD-10530,2025-08-07,2025-08-09,West,Home Office,Second Class,Furniture,Storage,3,688.4,0.0,251.86
+ORD-10531,2025-03-02,2025-03-04,East,Corporate,Second Class,Office Supplies,Labels,1,101.58,0.0,35.16
+ORD-10532,2025-02-26,2025-03-01,West,Corporate,Standard Class,Furniture,Storage,1,490.3,0.1,147.34
+ORD-10533,2025-04-14,2025-04-15,South,Consumer,Standard Class,Technology,Laptops,7,5145.51,0.05,1312.36
+ORD-10534,2025-07-30,2025-08-02,West,Corporate,Standard Class,Technology,Phones,2,788.07,0.1,217.6
+ORD-10535,2025-02-26,2025-03-01,West,Consumer,Standard Class,Technology,Accessories,4,3298.02,0.0,1144.4
+ORD-10536,2025-06-16,2025-06-19,South,Home Office,Second Class,Technology,Accessories,3,1542.39,0.15,396.05
+ORD-10537,2025-02-12,2025-02-17,Central,Corporate,Standard Class,Office Supplies,Binders,2,73.69,0.2,28.1
+ORD-10538,2025-07-17,2025-07-18,West,Consumer,First Class,Office Supplies,Labels,1,77.41,0.1,25.55
+ORD-10539,2025-01-08,2025-01-10,East,Consumer,Standard Class,Office Supplies,Binders,1,7.71,0.15,2.71
+ORD-10540,2025-09-16,2025-09-18,East,Corporate,Standard Class,Office Supplies,Binders,6,547.79,0.1,214.2
+ORD-10541,2025-01-21,2025-01-26,Central,Corporate,First Class,Technology,Monitors,6,4552.49,0.15,1391.83
+ORD-10542,2025-03-13,2025-03-14,East,Consumer,Standard Class,Technology,Phones,7,1340.01,0.1,257.05
+ORD-10543,2025-03-05,2025-03-06,East,Home Office,Same Day,Office Supplies,Paper,7,393.43,0.15,142.68
+ORD-10544,2025-10-31,2025-11-01,West,Home Office,Standard Class,Furniture,Storage,2,241.18,0.1,77.2
+ORD-10545,2025-01-20,2025-01-24,Central,Corporate,Standard Class,Furniture,Chairs,6,1547.92,0.0,417.19
+ORD-10546,2025-06-06,2025-06-11,Central,Consumer,Standard Class,Office Supplies,Labels,7,558.25,0.1,202.86
+ORD-10547,2025-08-04,2025-08-07,South,Consumer,Standard Class,Office Supplies,Labels,7,399.52,0.1,172.42
+ORD-10548,2025-07-08,2025-07-10,East,Home Office,Standard Class,Office Supplies,Labels,4,233.38,0.15,92.44
+ORD-10549,2025-09-06,2025-09-08,South,Consumer,Standard Class,Office Supplies,Binders,3,148.47,0.15,46.88
+ORD-10550,2025-10-21,2025-10-26,East,Home Office,Standard Class,Office Supplies,Paper,6,169.13,0.0,65.87
+ORD-10551,2025-05-24,2025-05-25,South,Corporate,First Class,Technology,Phones,4,2146.52,0.0,604.58
+ORD-10552,2025-10-30,2025-11-02,South,Home Office,Standard Class,Furniture,Chairs,2,251.66,0.15,50.04
+ORD-10553,2025-04-27,2025-05-02,East,Consumer,Standard Class,Furniture,Storage,1,192.63,0.1,64.74
+ORD-10554,2025-12-26,2025-12-29,East,Consumer,Standard Class,Technology,Monitors,1,191.9,0.0,48.58
+ORD-10555,2025-07-04,2025-07-07,West,Consumer,First Class,Furniture,Bookcases,2,857.74,0.15,235.86
+ORD-10556,2025-09-26,2025-10-01,West,Corporate,Second Class,Technology,Laptops,5,1530.25,0.05,490.11
+ORD-10557,2025-11-16,2025-11-18,South,Corporate,Second Class,Furniture,Bookcases,7,2549.69,0.1,689.59
+ORD-10558,2025-10-17,2025-10-19,Central,Home Office,Standard Class,Technology,Monitors,6,3467.46,0.0,957.33
+ORD-10559,2025-11-07,2025-11-12,West,Corporate,Standard Class,Technology,Phones,7,4539.55,0.05,1440.65
+ORD-10560,2025-07-15,2025-07-16,West,Corporate,First Class,Technology,Phones,7,1407.01,0.05,540.23
+ORD-10561,2025-01-16,2025-01-21,Central,Consumer,Second Class,Furniture,Tables,4,243.1,0.0,89.77
+ORD-10562,2025-06-29,2025-07-01,East,Consumer,Second Class,Furniture,Storage,6,1508.85,0.1,365.44
+ORD-10563,2025-03-08,2025-03-10,West,Consumer,Standard Class,Office Supplies,Paper,1,7.23,0.1,3.13
+ORD-10564,2025-11-21,2025-11-23,South,Consumer,Standard Class,Technology,Phones,7,1390.68,0.1,435.33
+ORD-10565,2025-03-28,2025-04-02,Central,Corporate,Standard Class,Technology,Monitors,1,103.68,0.05,18.28
+ORD-10566,2025-03-25,2025-03-28,East,Consumer,Standard Class,Technology,Laptops,6,4681.95,0.0,1370.23
+ORD-10567,2025-04-02,2025-04-05,Central,Consumer,Second Class,Technology,Phones,6,2653.6,0.1,800.72
+ORD-10568,2025-08-23,2025-08-27,West,Corporate,Standard Class,Office Supplies,Paper,5,490.38,0.15,224.75
+ORD-10569,2025-07-28,2025-08-02,West,Consumer,Standard Class,Technology,Accessories,1,709.52,0.1,171.02
+ORD-10570,2025-12-13,2025-12-15,West,Consumer,Standard Class,Office Supplies,Labels,7,49.03,0.0,19.02
+ORD-10571,2025-06-01,2025-06-02,East,Home Office,Standard Class,Office Supplies,Binders,4,124.24,0.1,37.76
+ORD-10572,2025-04-14,2025-04-18,West,Home Office,Standard Class,Office Supplies,Art,1,36.43,0.0,16.04
+ORD-10573,2025-01-18,2025-01-22,South,Corporate,Standard Class,Office Supplies,Binders,3,287.0,0.1,102.28
+ORD-10574,2025-01-03,2025-01-04,South,Corporate,Standard Class,Technology,Phones,1,94.46,0.05,26.67
+ORD-10575,2025-05-17,2025-05-21,East,Home Office,Standard Class,Technology,Laptops,6,4812.33,0.1,1354.27
+ORD-10576,2025-12-04,2025-12-08,Central,Consumer,Standard Class,Furniture,Storage,7,726.52,0.05,200.96
+ORD-10577,2025-07-11,2025-07-13,East,Home Office,Standard Class,Furniture,Storage,2,523.79,0.0,184.58
+ORD-10578,2025-11-23,2025-11-28,West,Corporate,First Class,Office Supplies,Art,1,29.08,0.05,11.17
+ORD-10579,2025-02-07,2025-02-12,West,Consumer,Standard Class,Furniture,Storage,2,518.11,0.05,235.62
+ORD-10580,2025-02-04,2025-02-07,East,Corporate,Same Day,Office Supplies,Art,4,247.31,0.0,100.39
+ORD-10581,2025-11-01,2025-11-05,East,Home Office,Standard Class,Technology,Accessories,1,504.86,0.15,141.22
+ORD-10582,2025-02-08,2025-02-09,West,Consumer,Standard Class,Furniture,Storage,3,680.06,0.05,226.58
+ORD-10583,2025-01-19,2025-01-20,West,Home Office,First Class,Office Supplies,Art,4,250.36,0.15,85.25
+ORD-10584,2025-05-28,2025-05-29,East,Consumer,Standard Class,Furniture,Chairs,3,949.2,0.1,324.95
+ORD-10585,2025-12-04,2025-12-05,Central,Home Office,Standard Class,Technology,Laptops,6,4409.75,0.0,1061.36
+ORD-10586,2025-09-09,2025-09-10,South,Consumer,Second Class,Furniture,Bookcases,7,1879.78,0.05,541.22
+ORD-10587,2025-02-06,2025-02-08,Central,Corporate,Standard Class,Furniture,Bookcases,6,1259.73,0.05,399.09
+ORD-10588,2025-11-02,2025-11-03,South,Corporate,Standard Class,Furniture,Tables,1,405.37,0.05,80.87
+ORD-10589,2025-11-04,2025-11-05,South,Corporate,First Class,Furniture,Bookcases,7,759.98,0.1,293.96
+ORD-10590,2025-10-20,2025-10-21,Central,Corporate,Same Day,Furniture,Chairs,7,2938.75,0.05,1093.79
+ORD-10591,2025-11-26,2025-11-27,East,Corporate,Standard Class,Furniture,Chairs,1,338.13,0.1,101.05
+ORD-10592,2025-03-29,2025-03-31,East,Home Office,Second Class,Furniture,Tables,4,1109.22,0.05,394.82
+ORD-10593,2025-12-24,2025-12-29,East,Corporate,Same Day,Technology,Phones,7,4360.58,0.05,1361.03
+ORD-10594,2025-04-28,2025-04-29,West,Consumer,Same Day,Technology,Accessories,2,1703.14,0.05,519.71
+ORD-10595,2025-10-20,2025-10-22,West,Consumer,Standard Class,Technology,Phones,3,2221.35,0.1,772.44
+ORD-10596,2025-07-31,2025-08-05,South,Corporate,Second Class,Furniture,Bookcases,1,263.33,0.0,84.28
+ORD-10597,2025-10-12,2025-10-16,South,Consumer,Standard Class,Technology,Laptops,7,2274.58,0.2,686.65
+ORD-10598,2025-08-18,2025-08-21,South,Corporate,Standard Class,Technology,Monitors,5,661.38,0.0,148.47
+ORD-10599,2025-08-23,2025-08-27,Central,Consumer,Standard Class,Furniture,Chairs,6,1446.37,0.15,272.96
+ORD-10600,2025-08-13,2025-08-14,South,Corporate,Second Class,Office Supplies,Art,3,304.55,0.05,113.75
+ORD-10601,2025-10-12,2025-10-15,South,Corporate,Standard Class,Furniture,Tables,4,403.87,0.2,96.88
+ORD-10602,2025-09-27,2025-10-02,South,Corporate,Second Class,Office Supplies,Art,2,196.45,0.1,58.23
+ORD-10603,2025-02-19,2025-02-21,West,Corporate,Second Class,Office Supplies,Paper,7,518.51,0.15,212.87
+ORD-10604,2025-10-29,2025-10-31,East,Corporate,Second Class,Furniture,Bookcases,7,1243.46,0.05,438.07
+ORD-10605,2025-07-15,2025-07-18,South,Consumer,Standard Class,Technology,Phones,7,3282.51,0.1,856.01
+ORD-10606,2025-04-28,2025-04-29,Central,Corporate,Standard Class,Furniture,Bookcases,2,238.59,0.15,59.78
+ORD-10607,2025-07-07,2025-07-10,South,Consumer,Second Class,Technology,Monitors,2,249.45,0.0,68.17
+ORD-10608,2025-12-19,2025-12-22,Central,Home Office,Second Class,Office Supplies,Paper,4,307.14,0.15,125.92
+ORD-10609,2025-11-10,2025-11-11,Central,Consumer,First Class,Furniture,Bookcases,1,247.54,0.2,56.34
+ORD-10610,2025-11-01,2025-11-06,Central,Consumer,Standard Class,Office Supplies,Art,2,189.56,0.2,61.87
+ORD-10611,2025-06-18,2025-06-22,West,Corporate,Standard Class,Technology,Phones,5,4088.74,0.0,714.49
+ORD-10612,2025-10-14,2025-10-15,East,Corporate,First Class,Technology,Accessories,5,4199.01,0.0,1039.02
+ORD-10613,2025-05-21,2025-05-23,West,Consumer,Standard Class,Office Supplies,Labels,4,180.32,0.05,73.13
+ORD-10614,2025-09-08,2025-09-09,East,Corporate,Standard Class,Furniture,Tables,6,277.75,0.0,89.38
+ORD-10615,2025-08-22,2025-08-26,Central,Consumer,Second Class,Office Supplies,Labels,1,56.04,0.15,24.75
+ORD-10616,2025-04-02,2025-04-03,East,Home Office,First Class,Technology,Phones,7,4837.72,0.1,1341.78
+ORD-10617,2025-04-08,2025-04-11,East,Consumer,Standard Class,Technology,Accessories,5,3639.92,0.05,1256.54
+ORD-10618,2025-01-23,2025-01-28,East,Consumer,Standard Class,Technology,Laptops,2,1097.92,0.0,296.15
+ORD-10619,2025-02-21,2025-02-25,East,Home Office,Second Class,Technology,Accessories,5,2449.6,0.05,787.63
+ORD-10620,2025-06-08,2025-06-13,West,Consumer,Same Day,Technology,Phones,5,3762.58,0.05,761.11
+ORD-10621,2025-06-24,2025-06-27,West,Corporate,Standard Class,Technology,Monitors,7,2336.01,0.0,470.94
+ORD-10622,2025-03-02,2025-03-04,South,Corporate,Standard Class,Technology,Accessories,3,1985.52,0.15,414.47
+ORD-10623,2025-06-02,2025-06-07,South,Home Office,Second Class,Furniture,Bookcases,7,3335.24,0.0,1141.82
+ORD-10624,2025-08-09,2025-08-10,South,Corporate,Same Day,Furniture,Tables,4,1462.12,0.1,488.15
+ORD-10625,2025-03-26,2025-03-27,South,Corporate,Standard Class,Furniture,Bookcases,1,509.45,0.05,168.32
+ORD-10626,2025-05-04,2025-05-07,West,Consumer,Standard Class,Furniture,Tables,5,925.71,0.1,327.01
+ORD-10627,2025-05-15,2025-05-16,West,Corporate,Same Day,Furniture,Tables,5,1897.37,0.05,779.55
+ORD-10628,2025-07-04,2025-07-09,South,Consumer,Standard Class,Technology,Accessories,7,713.36,0.1,214.21
+ORD-10629,2025-05-14,2025-05-18,Central,Consumer,Second Class,Furniture,Bookcases,7,978.47,0.0,333.92
+ORD-10630,2025-09-26,2025-09-30,East,Consumer,Standard Class,Technology,Accessories,5,1186.62,0.0,278.79
+ORD-10631,2025-04-30,2025-05-03,Central,Consumer,Second Class,Furniture,Tables,6,1684.08,0.15,351.38
+ORD-10632,2025-06-08,2025-06-12,Central,Consumer,First Class,Furniture,Bookcases,7,1860.88,0.15,565.25
+ORD-10633,2025-05-19,2025-05-20,West,Home Office,Second Class,Technology,Accessories,3,2414.62,0.0,790.16
+ORD-10634,2025-03-08,2025-03-10,South,Home Office,Standard Class,Technology,Monitors,3,2355.66,0.0,813.75
+ORD-10635,2025-09-08,2025-09-12,South,Corporate,Second Class,Furniture,Storage,2,193.13,0.2,40.93
+ORD-10636,2025-03-27,2025-03-31,South,Consumer,Standard Class,Office Supplies,Labels,1,19.45,0.1,8.7
+ORD-10637,2025-04-19,2025-04-23,Central,Corporate,Standard Class,Technology,Accessories,6,4324.41,0.1,1377.51
+ORD-10638,2025-10-17,2025-10-18,West,Consumer,Standard Class,Office Supplies,Labels,1,40.81,0.0,9.56
+ORD-10639,2025-12-13,2025-12-15,West,Consumer,Standard Class,Furniture,Storage,4,1320.52,0.2,286.72
+ORD-10640,2025-09-02,2025-09-03,East,Home Office,Standard Class,Technology,Accessories,3,1672.74,0.1,573.02
+ORD-10641,2025-12-01,2025-12-02,West,Consumer,First Class,Office Supplies,Binders,2,79.34,0.1,32.77
+ORD-10642,2025-11-08,2025-11-10,East,Home Office,Second Class,Technology,Laptops,1,480.95,0.0,139.24
+ORD-10643,2025-06-25,2025-06-26,Central,Home Office,First Class,Furniture,Bookcases,3,303.4,0.2,79.34
+ORD-10644,2025-10-09,2025-10-12,West,Home Office,Standard Class,Technology,Laptops,6,1137.9,0.05,287.63
+ORD-10645,2025-04-30,2025-05-04,Central,Consumer,Standard Class,Furniture,Tables,2,211.11,0.0,65.68
+ORD-10646,2025-06-18,2025-06-20,South,Home Office,First Class,Technology,Laptops,2,679.54,0.15,168.16
+ORD-10647,2025-07-15,2025-07-20,West,Corporate,Standard Class,Technology,Phones,1,469.2,0.15,110.71
+ORD-10648,2025-12-17,2025-12-18,South,Home Office,Standard Class,Technology,Laptops,5,3998.3,0.0,1307.88
+ORD-10649,2025-11-06,2025-11-07,South,Consumer,Same Day,Furniture,Tables,4,1849.53,0.1,681.16
+ORD-10650,2025-06-28,2025-07-02,West,Consumer,Standard Class,Technology,Monitors,1,223.95,0.15,52.04
+ORD-10651,2025-08-27,2025-08-30,South,Corporate,Standard Class,Technology,Laptops,5,2285.24,0.05,563.07
+ORD-10652,2025-03-15,2025-03-18,South,Home Office,Standard Class,Office Supplies,Paper,4,283.32,0.0,116.83
+ORD-10653,2025-10-21,2025-10-24,East,Consumer,First Class,Technology,Monitors,2,405.74,0.1,117.53
+ORD-10654,2025-07-21,2025-07-22,West,Consumer,First Class,Furniture,Chairs,4,1725.01,0.15,439.46
+ORD-10655,2025-07-14,2025-07-19,East,Consumer,Standard Class,Technology,Monitors,2,1439.97,0.2,464.83
+ORD-10656,2025-10-07,2025-10-09,South,Consumer,Standard Class,Technology,Accessories,4,2450.03,0.1,999.6
+ORD-10657,2025-08-20,2025-08-23,South,Corporate,Second Class,Office Supplies,Labels,5,393.2,0.1,104.32
+ORD-10658,2025-01-27,2025-01-31,East,Consumer,Standard Class,Office Supplies,Labels,3,80.32,0.0,28.65
+ORD-10659,2025-04-16,2025-04-18,East,Consumer,Standard Class,Furniture,Storage,2,378.28,0.1,161.22
+ORD-10660,2025-03-06,2025-03-08,Central,Consumer,Second Class,Technology,Laptops,2,1584.76,0.1,480.39
+ORD-10661,2025-09-26,2025-09-28,Central,Corporate,Standard Class,Technology,Laptops,5,3040.58,0.05,984.56
+ORD-10662,2025-01-13,2025-01-16,West,Consumer,Standard Class,Office Supplies,Labels,7,58.04,0.1,24.85
+ORD-10663,2025-03-15,2025-03-16,Central,Consumer,Standard Class,Office Supplies,Labels,1,8.23,0.0,3.7
+ORD-10664,2025-08-07,2025-08-08,East,Corporate,Second Class,Technology,Accessories,6,2103.09,0.1,684.67
+ORD-10665,2025-09-11,2025-09-16,Central,Home Office,Second Class,Office Supplies,Paper,7,324.52,0.1,146.03
+ORD-10666,2025-07-03,2025-07-04,South,Home Office,Same Day,Office Supplies,Binders,4,134.73,0.2,51.15
+ORD-10667,2025-11-11,2025-11-13,West,Consumer,First Class,Office Supplies,Art,3,291.05,0.05,136.21
+ORD-10668,2025-12-02,2025-12-07,West,Consumer,Same Day,Technology,Accessories,1,737.6,0.1,173.01
+ORD-10669,2025-02-18,2025-02-23,East,Consumer,Standard Class,Furniture,Storage,6,1104.96,0.2,190.68
+ORD-10670,2025-12-14,2025-12-19,West,Consumer,Standard Class,Office Supplies,Art,5,496.37,0.0,189.83
+ORD-10671,2025-08-13,2025-08-14,South,Corporate,First Class,Technology,Laptops,2,957.33,0.1,317.02
+ORD-10672,2025-08-21,2025-08-23,Central,Consumer,Second Class,Technology,Accessories,4,1598.71,0.2,410.45
+ORD-10673,2025-02-04,2025-02-09,West,Home Office,First Class,Furniture,Tables,4,1297.43,0.15,291.86
+ORD-10674,2025-08-15,2025-08-17,South,Consumer,Standard Class,Office Supplies,Art,4,207.84,0.0,93.53
+ORD-10675,2025-09-22,2025-09-23,Central,Consumer,Second Class,Technology,Accessories,7,3412.5,0.05,984.89
+ORD-10676,2025-07-31,2025-08-01,West,Corporate,Standard Class,Technology,Accessories,4,2732.43,0.05,735.88
+ORD-10677,2025-01-31,2025-02-05,South,Consumer,Standard Class,Office Supplies,Art,4,393.34,0.05,177.0
+ORD-10678,2025-07-10,2025-07-11,East,Corporate,Standard Class,Technology,Monitors,5,1682.45,0.05,407.35
+ORD-10679,2025-12-08,2025-12-13,West,Corporate,Standard Class,Technology,Phones,5,3721.04,0.1,1007.85
+ORD-10680,2025-09-22,2025-09-24,Central,Consumer,First Class,Technology,Accessories,6,4655.77,0.0,1174.56
+ORD-10681,2025-02-20,2025-02-22,West,Home Office,Standard Class,Furniture,Tables,5,199.36,0.05,55.09
+ORD-10682,2025-12-17,2025-12-20,East,Consumer,Same Day,Office Supplies,Paper,1,23.85,0.15,10.44
+ORD-10683,2025-12-16,2025-12-18,West,Corporate,Standard Class,Office Supplies,Art,2,184.25,0.1,86.23
+ORD-10684,2025-03-03,2025-03-08,East,Consumer,Second Class,Office Supplies,Binders,4,401.81,0.05,164.84
+ORD-10685,2025-10-20,2025-10-24,West,Consumer,Standard Class,Office Supplies,Binders,6,682.1,0.0,282.55
+ORD-10686,2025-05-29,2025-06-02,West,Corporate,Standard Class,Furniture,Bookcases,5,1693.16,0.1,597.07
+ORD-10687,2025-08-05,2025-08-09,West,Home Office,Standard Class,Technology,Accessories,7,1121.13,0.2,374.49
+ORD-10688,2025-06-12,2025-06-16,South,Consumer,Standard Class,Technology,Phones,5,2844.88,0.15,805.94
+ORD-10689,2025-10-13,2025-10-15,East,Consumer,Standard Class,Furniture,Chairs,7,2371.82,0.15,576.32
+ORD-10690,2025-12-30,2026-01-04,Central,Consumer,Standard Class,Furniture,Chairs,2,836.02,0.0,266.41
+ORD-10691,2025-10-18,2025-10-21,West,Consumer,Standard Class,Office Supplies,Paper,6,56.9,0.05,26.63
+ORD-10692,2025-12-06,2025-12-07,South,Corporate,Same Day,Furniture,Storage,1,170.45,0.05,48.22
+ORD-10693,2025-12-12,2025-12-16,West,Consumer,Second Class,Furniture,Chairs,4,2017.98,0.0,662.02
+ORD-10694,2025-02-02,2025-02-04,East,Home Office,Standard Class,Office Supplies,Paper,5,511.62,0.1,218.03
+ORD-10695,2025-04-03,2025-04-08,Central,Corporate,Standard Class,Furniture,Chairs,7,1397.61,0.2,233.9
+ORD-10696,2025-09-21,2025-09-23,Central,Consumer,Second Class,Office Supplies,Art,1,60.55,0.15,26.57
+ORD-10697,2025-08-04,2025-08-07,East,Corporate,Standard Class,Furniture,Chairs,1,120.68,0.05,33.46
+ORD-10698,2025-01-19,2025-01-20,South,Consumer,Standard Class,Technology,Laptops,2,1223.73,0.05,323.59
+ORD-10699,2025-02-04,2025-02-09,Central,Corporate,Second Class,Technology,Phones,2,243.21,0.05,68.56
+ORD-10700,2025-07-09,2025-07-14,East,Consumer,Second Class,Technology,Phones,7,4172.65,0.1,1399.68
+ORD-10701,2025-08-13,2025-08-14,South,Consumer,Standard Class,Technology,Laptops,5,2878.17,0.2,837.55
+ORD-10702,2025-03-03,2025-03-06,Central,Home Office,Same Day,Furniture,Bookcases,3,343.23,0.2,83.82
+ORD-10703,2025-03-04,2025-03-05,Central,Consumer,First Class,Furniture,Storage,4,436.06,0.0,120.79
+ORD-10704,2025-02-17,2025-02-19,West,Consumer,First Class,Furniture,Chairs,7,1893.29,0.15,620.24
+ORD-10705,2025-07-26,2025-07-28,South,Consumer,Standard Class,Office Supplies,Labels,5,193.8,0.1,69.06
+ORD-10706,2025-01-03,2025-01-07,West,Consumer,Standard Class,Technology,Phones,7,2503.32,0.1,899.76
+ORD-10707,2025-07-28,2025-07-31,West,Consumer,First Class,Furniture,Tables,6,495.51,0.0,154.72
+ORD-10708,2025-06-23,2025-06-28,Central,Consumer,Second Class,Office Supplies,Labels,4,321.48,0.05,125.16
+ORD-10709,2025-06-20,2025-06-22,Central,Corporate,Second Class,Office Supplies,Labels,3,237.98,0.0,82.42
+ORD-10710,2025-09-05,2025-09-07,East,Consumer,Standard Class,Office Supplies,Paper,7,338.91,0.1,145.95
+ORD-10711,2025-07-10,2025-07-15,West,Consumer,Standard Class,Office Supplies,Paper,4,303.02,0.0,113.11
+ORD-10712,2025-09-23,2025-09-26,Central,Consumer,Standard Class,Technology,Accessories,6,932.95,0.05,166.12
+ORD-10713,2025-10-06,2025-10-11,East,Corporate,Standard Class,Office Supplies,Binders,2,154.87,0.15,55.79
+ORD-10714,2025-12-02,2025-12-06,Central,Corporate,Second Class,Technology,Monitors,2,548.51,0.15,154.13
+ORD-10715,2025-10-19,2025-10-21,West,Consumer,Second Class,Furniture,Storage,3,965.65,0.2,282.52
+ORD-10716,2025-07-08,2025-07-10,South,Consumer,Second Class,Furniture,Storage,5,2128.69,0.05,624.92
+ORD-10717,2025-06-29,2025-07-01,South,Consumer,Standard Class,Technology,Accessories,3,843.4,0.1,237.09
+ORD-10718,2025-03-28,2025-04-01,East,Corporate,Standard Class,Technology,Laptops,6,2643.8,0.2,469.01
+ORD-10719,2025-08-07,2025-08-09,West,Consumer,Second Class,Technology,Laptops,2,472.18,0.1,121.33
+ORD-10720,2025-02-20,2025-02-24,Central,Corporate,Second Class,Technology,Laptops,3,1410.78,0.1,455.2
+ORD-10721,2025-12-06,2025-12-07,West,Corporate,Standard Class,Furniture,Bookcases,2,975.82,0.05,396.27
+ORD-10722,2025-11-05,2025-11-10,Central,Consumer,First Class,Office Supplies,Binders,5,384.23,0.0,126.49
+ORD-10723,2025-02-13,2025-02-15,Central,Consumer,Second Class,Technology,Laptops,7,2418.63,0.1,825.54
+ORD-10724,2025-10-14,2025-10-19,South,Corporate,Standard Class,Furniture,Chairs,7,3155.34,0.05,1087.54
+ORD-10725,2025-02-12,2025-02-13,West,Home Office,Standard Class,Office Supplies,Paper,3,308.28,0.1,111.53
+ORD-10726,2025-09-21,2025-09-22,South,Home Office,Standard Class,Technology,Accessories,7,5578.16,0.05,1707.51
+ORD-10727,2025-02-02,2025-02-03,West,Home Office,Standard Class,Office Supplies,Labels,4,41.86,0.05,16.72
+ORD-10728,2025-06-28,2025-07-02,South,Consumer,Second Class,Office Supplies,Art,6,400.43,0.05,145.28
+ORD-10729,2025-08-29,2025-08-30,South,Home Office,Same Day,Office Supplies,Labels,7,427.45,0.0,120.98
+ORD-10730,2025-09-24,2025-09-25,West,Consumer,Second Class,Office Supplies,Labels,2,106.81,0.1,44.42
+ORD-10731,2025-06-02,2025-06-04,East,Consumer,First Class,Technology,Accessories,1,256.35,0.1,70.5
+ORD-10732,2025-12-03,2025-12-07,South,Consumer,Standard Class,Office Supplies,Labels,3,150.62,0.0,48.67
+ORD-10733,2025-10-10,2025-10-15,South,Corporate,Standard Class,Technology,Monitors,1,772.98,0.05,188.33
+ORD-10734,2025-03-18,2025-03-22,Central,Consumer,Standard Class,Furniture,Tables,7,1778.13,0.2,313.61
+ORD-10735,2025-09-02,2025-09-03,South,Home Office,Standard Class,Office Supplies,Binders,3,216.68,0.0,77.47
+ORD-10736,2025-09-24,2025-09-26,West,Corporate,Standard Class,Office Supplies,Paper,1,38.93,0.15,16.04
+ORD-10737,2025-05-02,2025-05-07,East,Consumer,First Class,Technology,Accessories,3,1892.67,0.15,548.28
+ORD-10738,2025-09-27,2025-09-29,East,Consumer,First Class,Technology,Phones,7,2673.36,0.2,604.54
+ORD-10739,2025-11-24,2025-11-26,East,Consumer,Standard Class,Technology,Monitors,2,700.95,0.15,220.18
+ORD-10740,2025-10-26,2025-10-29,West,Corporate,Standard Class,Furniture,Tables,3,306.4,0.2,51.77
+ORD-10741,2025-10-06,2025-10-10,South,Consumer,Standard Class,Furniture,Tables,1,268.12,0.15,72.19
+ORD-10742,2025-08-20,2025-08-24,East,Corporate,First Class,Office Supplies,Paper,4,90.89,0.15,35.1
+ORD-10743,2025-04-09,2025-04-10,West,Corporate,Standard Class,Office Supplies,Art,3,295.07,0.05,106.84
+ORD-10744,2025-10-18,2025-10-19,South,Home Office,Standard Class,Technology,Laptops,6,2554.59,0.2,801.2
+ORD-10745,2025-05-13,2025-05-17,Central,Corporate,Second Class,Technology,Laptops,5,2123.89,0.0,573.62
+ORD-10746,2025-07-14,2025-07-17,West,Home Office,Standard Class,Technology,Laptops,3,1111.34,0.15,389.31
+ORD-10747,2025-04-25,2025-04-30,Central,Consumer,Standard Class,Technology,Laptops,3,1948.68,0.2,526.76
+ORD-10748,2025-04-25,2025-04-30,South,Corporate,Standard Class,Office Supplies,Paper,6,265.03,0.05,107.9
+ORD-10749,2025-02-27,2025-03-02,West,Consumer,First Class,Technology,Phones,4,1239.42,0.0,334.7
+ORD-10750,2025-12-17,2025-12-18,Central,Home Office,Standard Class,Furniture,Tables,6,1927.06,0.2,400.04
+ORD-10751,2025-02-23,2025-02-26,West,Consumer,First Class,Furniture,Storage,1,49.33,0.0,13.56
+ORD-10752,2025-02-01,2025-02-04,South,Consumer,Same Day,Office Supplies,Paper,2,118.46,0.1,53.31
+ORD-10753,2025-12-08,2025-12-09,Central,Consumer,Second Class,Furniture,Tables,1,215.17,0.05,70.4
+ORD-10754,2025-07-22,2025-07-26,South,Corporate,Standard Class,Office Supplies,Binders,6,132.68,0.2,59.63
+ORD-10755,2025-06-09,2025-06-10,Central,Consumer,Standard Class,Technology,Laptops,1,81.81,0.05,23.03
+ORD-10756,2025-09-27,2025-09-29,South,Corporate,Second Class,Office Supplies,Labels,4,294.68,0.15,119.84
+ORD-10757,2025-05-20,2025-05-22,West,Home Office,Standard Class,Office Supplies,Art,4,200.57,0.05,84.47
+ORD-10758,2025-02-16,2025-02-20,Central,Corporate,Same Day,Furniture,Storage,5,1098.47,0.1,377.41
+ORD-10759,2025-09-24,2025-09-27,East,Corporate,Standard Class,Office Supplies,Paper,3,139.86,0.0,44.36
+ORD-10760,2025-03-06,2025-03-10,West,Consumer,First Class,Furniture,Storage,5,356.69,0.1,122.9
+ORD-10761,2025-07-21,2025-07-26,West,Consumer,Standard Class,Furniture,Tables,3,646.82,0.15,147.22
+ORD-10762,2025-12-13,2025-12-18,South,Corporate,Standard Class,Technology,Phones,2,313.8,0.1,100.0
+ORD-10763,2025-12-08,2025-12-10,South,Consumer,Second Class,Office Supplies,Art,5,518.43,0.05,171.27
+ORD-10764,2025-05-12,2025-05-13,East,Corporate,Standard Class,Furniture,Tables,4,621.94,0.1,204.4
+ORD-10765,2025-10-12,2025-10-14,East,Consumer,Standard Class,Office Supplies,Paper,7,364.97,0.1,129.4
+ORD-10766,2025-08-12,2025-08-14,East,Consumer,Standard Class,Office Supplies,Labels,7,464.44,0.05,187.59
+ORD-10767,2025-06-24,2025-06-27,Central,Consumer,Second Class,Office Supplies,Paper,3,321.79,0.0,115.75
+ORD-10768,2025-02-21,2025-02-25,East,Corporate,First Class,Office Supplies,Paper,2,169.56,0.0,76.3
+ORD-10769,2025-05-18,2025-05-20,West,Consumer,First Class,Office Supplies,Labels,6,360.18,0.05,148.29
+ORD-10770,2025-08-26,2025-08-30,West,Consumer,Standard Class,Technology,Laptops,6,1163.97,0.1,279.35
+ORD-10771,2025-12-27,2025-12-28,West,Consumer,Standard Class,Furniture,Tables,5,1728.0,0.15,494.98
+ORD-10772,2025-01-02,2025-01-06,East,Consumer,Standard Class,Technology,Accessories,1,95.62,0.15,26.76
+ORD-10773,2025-09-19,2025-09-21,Central,Consumer,Standard Class,Office Supplies,Art,7,305.64,0.1,122.18
+ORD-10774,2025-11-05,2025-11-09,West,Corporate,Second Class,Technology,Monitors,4,295.71,0.15,67.5
+ORD-10775,2025-12-14,2025-12-18,Central,Corporate,Standard Class,Office Supplies,Paper,4,401.36,0.0,119.94
+ORD-10776,2025-06-04,2025-06-05,West,Consumer,Second Class,Technology,Phones,2,310.32,0.05,98.32
+ORD-10777,2025-02-13,2025-02-18,South,Consumer,Standard Class,Office Supplies,Labels,2,165.43,0.0,73.33
+ORD-10778,2025-04-09,2025-04-10,East,Corporate,Standard Class,Office Supplies,Paper,7,619.94,0.0,278.97
+ORD-10779,2025-11-07,2025-11-09,Central,Home Office,First Class,Technology,Accessories,2,1242.65,0.1,399.13
+ORD-10780,2025-11-17,2025-11-19,East,Consumer,Standard Class,Technology,Phones,3,762.74,0.0,182.06
+ORD-10781,2025-08-21,2025-08-26,Central,Home Office,Second Class,Office Supplies,Labels,1,88.65,0.15,36.79
+ORD-10782,2025-02-14,2025-02-18,West,Corporate,Second Class,Office Supplies,Binders,3,211.09,0.2,87.68
+ORD-10783,2025-02-14,2025-02-16,South,Consumer,Second Class,Technology,Monitors,6,881.52,0.0,200.64
+ORD-10784,2025-06-24,2025-06-26,East,Corporate,First Class,Technology,Phones,1,484.03,0.15,179.94
+ORD-10785,2025-08-03,2025-08-04,East,Corporate,Standard Class,Technology,Phones,5,4016.63,0.0,1364.83
+ORD-10786,2025-01-12,2025-01-13,South,Consumer,Standard Class,Furniture,Storage,6,1334.71,0.1,386.75
+ORD-10787,2025-09-08,2025-09-13,Central,Consumer,Standard Class,Technology,Monitors,7,3844.53,0.15,859.83
+ORD-10788,2025-07-18,2025-07-22,West,Consumer,Standard Class,Office Supplies,Binders,1,7.77,0.15,2.59
+ORD-10789,2025-01-05,2025-01-07,West,Consumer,Standard Class,Technology,Monitors,4,1094.2,0.2,344.13
+ORD-10790,2025-02-04,2025-02-08,East,Consumer,First Class,Furniture,Tables,7,1005.85,0.1,261.4
+ORD-10791,2025-06-15,2025-06-20,West,Corporate,Standard Class,Furniture,Tables,2,498.48,0.0,185.07
+ORD-10792,2025-09-21,2025-09-25,South,Home Office,Standard Class,Furniture,Bookcases,4,1405.45,0.0,382.55
+ORD-10793,2025-10-29,2025-11-03,East,Consumer,Standard Class,Office Supplies,Labels,3,32.97,0.15,13.27
+ORD-10794,2025-06-07,2025-06-11,South,Consumer,Standard Class,Office Supplies,Labels,1,34.33,0.2,14.73
+ORD-10795,2025-04-18,2025-04-20,South,Consumer,Second Class,Office Supplies,Paper,3,196.93,0.05,81.53
+ORD-10796,2025-12-20,2025-12-21,Central,Corporate,First Class,Furniture,Tables,3,1316.68,0.05,403.32
+ORD-10797,2025-06-17,2025-06-20,South,Corporate,Standard Class,Office Supplies,Binders,6,375.58,0.15,134.87
+ORD-10798,2025-04-26,2025-04-28,West,Home Office,Standard Class,Office Supplies,Binders,1,43.39,0.2,13.89
+ORD-10799,2025-06-11,2025-06-14,South,Home Office,Standard Class,Office Supplies,Paper,1,86.13,0.0,28.6
+ORD-10800,2025-01-05,2025-01-09,West,Corporate,First Class,Office Supplies,Art,1,91.91,0.1,38.54
+ORD-10801,2025-04-21,2025-04-24,West,Home Office,First Class,Office Supplies,Art,4,314.52,0.15,130.38
+ORD-10802,2025-07-08,2025-07-10,Central,Consumer,First Class,Technology,Phones,3,1239.83,0.1,457.64
+ORD-10803,2025-12-02,2025-12-04,East,Consumer,Second Class,Technology,Laptops,1,106.99,0.2,27.14
+ORD-10804,2025-09-27,2025-10-02,Central,Corporate,First Class,Technology,Phones,5,4205.75,0.0,868.37
+ORD-10805,2025-10-13,2025-10-17,West,Corporate,Standard Class,Office Supplies,Labels,3,235.66,0.05,76.86
+ORD-10806,2025-07-18,2025-07-21,South,Corporate,Standard Class,Technology,Accessories,5,3568.13,0.05,741.04
+ORD-10807,2025-02-10,2025-02-12,East,Consumer,Standard Class,Technology,Phones,4,2708.55,0.1,768.07
+ORD-10808,2025-05-23,2025-05-25,South,Consumer,Standard Class,Technology,Laptops,2,965.6,0.1,235.6
+ORD-10809,2025-12-30,2026-01-04,South,Consumer,Standard Class,Office Supplies,Art,3,126.77,0.1,57.05
+ORD-10810,2025-01-17,2025-01-18,East,Corporate,Second Class,Furniture,Tables,6,1788.53,0.15,480.62
+ORD-10811,2025-11-17,2025-11-21,West,Corporate,Standard Class,Office Supplies,Labels,2,95.9,0.1,37.34
+ORD-10812,2025-09-07,2025-09-12,South,Consumer,Standard Class,Office Supplies,Binders,4,112.31,0.1,45.65
+ORD-10813,2025-04-14,2025-04-16,West,Consumer,Standard Class,Technology,Accessories,1,330.39,0.1,111.17
+ORD-10814,2025-10-11,2025-10-16,East,Consumer,Standard Class,Furniture,Chairs,1,347.5,0.1,102.36
+ORD-10815,2025-11-02,2025-11-06,East,Consumer,Standard Class,Technology,Accessories,3,240.74,0.2,44.71
+ORD-10816,2025-01-16,2025-01-20,East,Consumer,Standard Class,Furniture,Bookcases,6,2600.4,0.2,684.25
+ORD-10817,2025-02-08,2025-02-11,South,Consumer,Standard Class,Office Supplies,Art,7,137.38,0.1,44.76
+ORD-10818,2025-08-31,2025-09-02,East,Home Office,Standard Class,Technology,Accessories,4,1327.93,0.1,312.31
+ORD-10819,2025-12-31,2026-01-01,Central,Consumer,Standard Class,Office Supplies,Binders,4,377.15,0.2,137.96
+ORD-10820,2025-01-09,2025-01-11,West,Consumer,Second Class,Technology,Laptops,7,715.31,0.15,223.35
+ORD-10821,2025-08-31,2025-09-01,Central,Corporate,First Class,Technology,Phones,6,1684.02,0.15,532.4
+ORD-10822,2025-02-19,2025-02-21,East,Consumer,Standard Class,Technology,Monitors,4,2040.92,0.1,718.09
+ORD-10823,2025-08-26,2025-08-28,South,Corporate,First Class,Furniture,Chairs,2,948.11,0.05,140.51
+ORD-10824,2025-08-16,2025-08-20,Central,Consumer,Second Class,Technology,Accessories,5,1977.04,0.15,626.27
+ORD-10825,2025-02-03,2025-02-08,South,Corporate,Standard Class,Office Supplies,Labels,5,445.9,0.2,200.66
+ORD-10826,2025-09-06,2025-09-11,West,Consumer,First Class,Furniture,Chairs,2,467.97,0.05,167.73
+ORD-10827,2025-11-24,2025-11-29,East,Consumer,Standard Class,Technology,Accessories,6,3504.81,0.05,1256.71
+ORD-10828,2025-11-12,2025-11-17,West,Home Office,First Class,Furniture,Tables,1,330.88,0.1,110.94
+ORD-10829,2025-01-11,2025-01-15,Central,Home Office,Standard Class,Technology,Accessories,7,1108.19,0.0,280.11
+ORD-10830,2025-03-31,2025-04-02,West,Consumer,Standard Class,Furniture,Bookcases,4,1361.05,0.05,511.1
+ORD-10831,2025-03-29,2025-03-31,West,Corporate,Second Class,Office Supplies,Art,5,505.77,0.0,202.71
+ORD-10832,2025-06-15,2025-06-16,Central,Corporate,Standard Class,Furniture,Chairs,3,761.35,0.15,156.67
+ORD-10833,2025-02-22,2025-02-24,South,Corporate,Standard Class,Office Supplies,Paper,6,326.24,0.15,130.17
+ORD-10834,2025-11-08,2025-11-11,South,Corporate,First Class,Office Supplies,Paper,6,628.55,0.1,210.28
+ORD-10835,2025-10-11,2025-10-14,West,Consumer,Standard Class,Technology,Monitors,3,1303.61,0.1,365.82
+ORD-10836,2025-10-23,2025-10-28,East,Corporate,First Class,Office Supplies,Binders,2,162.46,0.1,54.84
+ORD-10837,2025-03-14,2025-03-17,South,Corporate,Second Class,Office Supplies,Labels,4,270.74,0.1,105.45
+ORD-10838,2025-01-06,2025-01-10,West,Consumer,Standard Class,Office Supplies,Labels,5,330.22,0.05,150.43
+ORD-10839,2025-11-29,2025-12-01,East,Consumer,Second Class,Office Supplies,Art,3,59.52,0.05,20.64
+ORD-10840,2025-04-16,2025-04-19,East,Corporate,Standard Class,Office Supplies,Paper,4,126.25,0.15,47.92
+ORD-10841,2025-08-28,2025-09-01,Central,Corporate,Standard Class,Furniture,Chairs,4,1267.09,0.0,545.51
+ORD-10842,2025-11-28,2025-11-30,Central,Corporate,Standard Class,Office Supplies,Paper,2,46.05,0.1,16.17
+ORD-10843,2025-01-14,2025-01-16,West,Consumer,Same Day,Technology,Monitors,2,490.15,0.0,166.32
+ORD-10844,2025-01-02,2025-01-05,East,Consumer,Same Day,Technology,Laptops,1,449.43,0.15,72.98
+ORD-10845,2025-01-02,2025-01-06,South,Corporate,Standard Class,Office Supplies,Paper,7,725.1,0.05,242.78
+ORD-10846,2025-02-27,2025-03-02,East,Consumer,Standard Class,Office Supplies,Paper,5,132.3,0.1,50.54
+ORD-10847,2025-01-19,2025-01-20,South,Corporate,Second Class,Technology,Accessories,5,3196.32,0.05,895.49
+ORD-10848,2025-10-27,2025-11-01,Central,Home Office,Standard Class,Office Supplies,Paper,2,198.68,0.1,78.77
+ORD-10849,2025-08-10,2025-08-15,South,Corporate,Standard Class,Technology,Accessories,4,944.32,0.2,291.39
+ORD-10850,2025-12-24,2025-12-25,Central,Consumer,Second Class,Office Supplies,Labels,3,326.9,0.05,121.66
+ORD-10851,2025-10-20,2025-10-21,South,Corporate,Standard Class,Technology,Accessories,4,3334.93,0.0,1002.09
+ORD-10852,2025-12-18,2025-12-23,South,Corporate,Second Class,Technology,Accessories,3,1710.49,0.1,502.73
+ORD-10853,2025-03-29,2025-03-30,Central,Consumer,Second Class,Technology,Accessories,5,3083.24,0.0,941.25
+ORD-10854,2025-04-16,2025-04-17,East,Consumer,Second Class,Technology,Laptops,5,561.41,0.15,121.29
+ORD-10855,2025-11-07,2025-11-08,Central,Consumer,Second Class,Furniture,Tables,4,1314.1,0.1,499.21
+ORD-10856,2025-03-31,2025-04-01,West,Corporate,Standard Class,Furniture,Bookcases,6,1151.7,0.2,271.11
+ORD-10857,2025-01-21,2025-01-25,West,Home Office,Second Class,Office Supplies,Art,7,387.42,0.0,124.45
+ORD-10858,2025-09-02,2025-09-04,East,Corporate,Same Day,Furniture,Storage,6,2641.23,0.0,1047.22
+ORD-10859,2025-10-20,2025-10-22,Central,Home Office,Standard Class,Office Supplies,Labels,6,360.52,0.15,127.8
+ORD-10860,2025-12-20,2025-12-21,East,Home Office,Standard Class,Technology,Monitors,6,4255.54,0.1,1438.37
+ORD-10861,2025-12-05,2025-12-10,Central,Consumer,Second Class,Office Supplies,Paper,1,8.42,0.2,3.45
+ORD-10862,2025-02-13,2025-02-16,West,Home Office,Standard Class,Furniture,Tables,6,2556.25,0.2,675.68
+ORD-10863,2025-10-09,2025-10-10,Central,Corporate,Standard Class,Office Supplies,Paper,4,195.55,0.05,70.42
+ORD-10864,2025-11-05,2025-11-06,West,Consumer,Standard Class,Technology,Monitors,7,5478.56,0.0,1995.95
+ORD-10865,2025-09-12,2025-09-15,East,Corporate,Standard Class,Office Supplies,Binders,6,181.99,0.0,47.55
+ORD-10866,2025-10-27,2025-10-28,West,Consumer,Second Class,Office Supplies,Binders,2,128.27,0.15,49.56
+ORD-10867,2025-11-02,2025-11-03,East,Consumer,Standard Class,Office Supplies,Labels,5,355.88,0.2,157.67
+ORD-10868,2025-06-12,2025-06-14,Central,Consumer,Standard Class,Furniture,Tables,5,2466.86,0.05,652.91
+ORD-10869,2025-01-15,2025-01-19,South,Consumer,Standard Class,Technology,Laptops,3,1676.16,0.1,517.53
+ORD-10870,2025-06-16,2025-06-21,South,Home Office,First Class,Office Supplies,Binders,6,613.04,0.05,231.95
+ORD-10871,2025-03-15,2025-03-17,South,Corporate,Standard Class,Furniture,Bookcases,6,337.56,0.05,120.93
+ORD-10872,2025-02-11,2025-02-12,South,Corporate,Standard Class,Furniture,Storage,2,755.34,0.1,219.08
+ORD-10873,2025-02-15,2025-02-16,South,Corporate,First Class,Technology,Laptops,3,1360.13,0.1,393.24
+ORD-10874,2025-09-12,2025-09-17,East,Home Office,Standard Class,Technology,Accessories,3,537.25,0.0,203.27
+ORD-10875,2025-07-04,2025-07-08,East,Consumer,Standard Class,Technology,Laptops,4,2191.33,0.15,531.1
+ORD-10876,2025-07-17,2025-07-21,South,Consumer,Standard Class,Technology,Laptops,4,2385.1,0.0,611.25
+ORD-10877,2025-09-29,2025-10-02,Central,Home Office,First Class,Furniture,Chairs,5,947.16,0.2,208.58
+ORD-10878,2025-07-20,2025-07-23,South,Corporate,First Class,Office Supplies,Binders,2,100.59,0.15,31.33
+ORD-10879,2025-08-18,2025-08-21,East,Corporate,Standard Class,Technology,Accessories,4,3058.18,0.0,871.17
+ORD-10880,2025-02-01,2025-02-04,East,Consumer,Standard Class,Office Supplies,Art,3,174.5,0.1,63.44
+ORD-10881,2025-11-07,2025-11-08,Central,Consumer,Standard Class,Technology,Accessories,5,3623.22,0.0,923.01
+ORD-10882,2025-06-13,2025-06-15,East,Consumer,First Class,Office Supplies,Paper,2,91.29,0.0,32.24
+ORD-10883,2025-02-26,2025-03-03,South,Corporate,Standard Class,Office Supplies,Binders,1,4.97,0.2,2.07
+ORD-10884,2025-10-24,2025-10-25,Central,Corporate,First Class,Office Supplies,Art,5,391.24,0.1,95.88
+ORD-10885,2025-09-26,2025-09-27,Central,Consumer,First Class,Furniture,Bookcases,3,1407.81,0.05,503.66
+ORD-10886,2025-01-20,2025-01-24,East,Home Office,Standard Class,Furniture,Tables,3,1030.05,0.0,359.91
+ORD-10887,2025-03-12,2025-03-16,Central,Corporate,Standard Class,Technology,Accessories,6,2789.97,0.05,744.75
+ORD-10888,2025-01-06,2025-01-10,South,Home Office,Standard Class,Technology,Accessories,6,4348.91,0.0,1035.17
+ORD-10889,2025-04-09,2025-04-14,West,Consumer,Same Day,Office Supplies,Binders,3,152.51,0.15,63.12
+ORD-10890,2025-02-06,2025-02-10,West,Consumer,Standard Class,Furniture,Chairs,3,136.52,0.05,25.38
+ORD-10891,2025-09-17,2025-09-19,South,Consumer,Same Day,Furniture,Chairs,5,409.99,0.15,103.36
+ORD-10892,2025-07-10,2025-07-13,East,Home Office,Second Class,Technology,Phones,2,982.98,0.15,189.84
+ORD-10893,2025-12-24,2025-12-26,West,Consumer,Standard Class,Technology,Phones,3,1272.05,0.05,343.11
+ORD-10894,2025-10-01,2025-10-04,East,Consumer,Standard Class,Office Supplies,Binders,5,588.12,0.0,264.65
+ORD-10895,2025-08-12,2025-08-13,East,Consumer,Same Day,Furniture,Bookcases,7,2642.31,0.15,538.61
+ORD-10896,2025-07-05,2025-07-07,Central,Consumer,Standard Class,Technology,Monitors,3,2265.48,0.1,775.43
+ORD-10897,2025-01-20,2025-01-25,East,Home Office,Same Day,Office Supplies,Labels,3,200.02,0.0,90.01
+ORD-10898,2025-01-26,2025-01-31,West,Corporate,Standard Class,Office Supplies,Binders,3,15.44,0.0,7.12
+ORD-10899,2025-08-13,2025-08-17,East,Consumer,Standard Class,Office Supplies,Paper,6,309.41,0.15,126.04
+ORD-10900,2025-01-02,2025-01-05,West,Home Office,Standard Class,Furniture,Bookcases,7,2045.73,0.05,705.78
+ORD-10901,2025-01-16,2025-01-20,South,Consumer,Second Class,Office Supplies,Binders,5,80.86,0.2,32.81
+ORD-10902,2025-03-21,2025-03-23,Central,Consumer,Standard Class,Office Supplies,Art,5,100.1,0.1,45.05
+ORD-10903,2025-11-19,2025-11-24,Central,Consumer,Standard Class,Technology,Accessories,4,2564.09,0.1,630.79
+ORD-10904,2025-06-17,2025-06-21,Central,Consumer,Standard Class,Technology,Laptops,7,2268.77,0.0,707.68
+ORD-10905,2025-09-16,2025-09-18,West,Consumer,Standard Class,Furniture,Storage,4,397.54,0.05,130.71
+ORD-10906,2025-05-31,2025-06-03,West,Home Office,Standard Class,Office Supplies,Art,1,69.05,0.0,26.71
+ORD-10907,2025-03-05,2025-03-07,East,Consumer,First Class,Furniture,Bookcases,5,1522.31,0.0,453.4
+ORD-10908,2025-05-16,2025-05-19,West,Home Office,Standard Class,Furniture,Bookcases,5,986.34,0.1,299.05
+ORD-10909,2025-02-03,2025-02-06,East,Corporate,Standard Class,Office Supplies,Paper,4,371.33,0.15,140.45
+ORD-10910,2025-10-09,2025-10-12,West,Home Office,Standard Class,Technology,Phones,4,885.21,0.15,244.73
+ORD-10911,2025-03-08,2025-03-09,South,Consumer,Standard Class,Office Supplies,Art,3,135.14,0.0,40.99
+ORD-10912,2025-05-18,2025-05-22,West,Consumer,Standard Class,Office Supplies,Art,1,75.14,0.1,31.42
+ORD-10913,2025-12-24,2025-12-27,West,Consumer,Second Class,Office Supplies,Art,1,32.95,0.05,13.58
+ORD-10914,2025-08-05,2025-08-07,South,Corporate,Second Class,Furniture,Storage,1,36.01,0.1,10.09
+ORD-10915,2025-06-17,2025-06-21,South,Corporate,Second Class,Office Supplies,Art,6,251.26,0.1,96.92
+ORD-10916,2025-07-18,2025-07-20,Central,Consumer,First Class,Technology,Accessories,2,427.97,0.05,118.43
+ORD-10917,2025-10-14,2025-10-16,West,Corporate,Standard Class,Technology,Laptops,6,531.66,0.2,149.57
+ORD-10918,2025-04-03,2025-04-04,West,Home Office,Standard Class,Technology,Phones,5,1552.91,0.2,475.79
+ORD-10919,2025-08-21,2025-08-25,West,Consumer,Standard Class,Technology,Laptops,4,947.02,0.1,310.42
+ORD-10920,2025-11-15,2025-11-19,South,Consumer,Standard Class,Technology,Phones,1,842.41,0.05,313.32
+ORD-10921,2025-07-28,2025-07-29,Central,Home Office,Standard Class,Technology,Laptops,4,1255.05,0.05,402.22
+ORD-10922,2025-06-12,2025-06-15,West,Corporate,Same Day,Office Supplies,Paper,6,406.41,0.1,180.81
+ORD-10923,2025-02-22,2025-02-23,East,Corporate,Standard Class,Furniture,Bookcases,1,282.16,0.15,48.12
+ORD-10924,2025-04-01,2025-04-05,Central,Consumer,First Class,Furniture,Chairs,4,616.88,0.0,199.56
+ORD-10925,2025-12-12,2025-12-17,West,Home Office,Standard Class,Technology,Laptops,1,428.48,0.2,56.92
+ORD-10926,2025-07-17,2025-07-18,South,Corporate,Same Day,Office Supplies,Binders,3,127.58,0.15,52.19
+ORD-10927,2025-04-20,2025-04-23,Central,Consumer,Standard Class,Furniture,Bookcases,2,504.96,0.1,151.08
+ORD-10928,2025-06-02,2025-06-03,Central,Corporate,Standard Class,Office Supplies,Labels,5,128.26,0.15,45.64
+ORD-10929,2025-07-30,2025-08-01,East,Consumer,Standard Class,Office Supplies,Paper,1,66.53,0.05,25.55
+ORD-10930,2025-07-16,2025-07-21,South,Consumer,First Class,Technology,Phones,5,3177.04,0.1,860.63
+ORD-10931,2025-09-13,2025-09-17,Central,Corporate,Second Class,Office Supplies,Binders,5,202.39,0.2,69.88
+ORD-10932,2025-04-04,2025-04-08,West,Corporate,Standard Class,Office Supplies,Labels,2,148.07,0.1,61.7
+ORD-10933,2025-08-25,2025-08-30,East,Corporate,Standard Class,Technology,Accessories,5,1983.12,0.15,513.75
+ORD-10934,2025-06-11,2025-06-16,West,Corporate,Standard Class,Technology,Laptops,3,462.75,0.1,136.65
+ORD-10935,2025-12-10,2025-12-12,West,Consumer,Same Day,Technology,Accessories,2,1574.24,0.05,462.89
+ORD-10936,2025-02-27,2025-03-01,West,Consumer,First Class,Office Supplies,Paper,5,164.74,0.1,68.04
+ORD-10937,2025-02-24,2025-02-25,West,Corporate,Standard Class,Technology,Monitors,3,1092.87,0.1,309.07
+ORD-10938,2025-06-18,2025-06-22,Central,Consumer,Standard Class,Office Supplies,Art,2,57.82,0.1,21.79
+ORD-10939,2025-07-05,2025-07-06,East,Consumer,Standard Class,Furniture,Storage,6,2737.76,0.15,657.58
+ORD-10940,2025-09-10,2025-09-15,East,Consumer,Same Day,Technology,Monitors,5,2407.29,0.2,761.25
+ORD-10941,2025-05-28,2025-06-01,West,Corporate,Second Class,Office Supplies,Labels,5,111.01,0.1,41.76
+ORD-10942,2025-11-30,2025-12-03,East,Consumer,First Class,Office Supplies,Paper,5,112.67,0.05,46.38
+ORD-10943,2025-06-23,2025-06-28,South,Corporate,Same Day,Technology,Laptops,3,1666.88,0.2,538.92
+ORD-10944,2025-02-17,2025-02-18,East,Corporate,Second Class,Office Supplies,Labels,5,437.32,0.0,152.62
+ORD-10945,2025-02-13,2025-02-16,West,Home Office,First Class,Office Supplies,Art,2,56.03,0.15,26.22
+ORD-10946,2025-12-22,2025-12-25,West,Home Office,Standard Class,Furniture,Chairs,4,179.15,0.2,43.43
+ORD-10947,2025-02-18,2025-02-23,Central,Consumer,Standard Class,Office Supplies,Binders,2,109.05,0.0,36.19
+ORD-10948,2025-12-12,2025-12-13,South,Corporate,Standard Class,Technology,Phones,7,2430.87,0.15,578.83
+ORD-10949,2025-04-12,2025-04-15,Central,Consumer,Standard Class,Technology,Phones,6,2080.96,0.2,601.47
+ORD-10950,2025-02-04,2025-02-06,Central,Corporate,Standard Class,Furniture,Bookcases,1,244.85,0.1,86.11
+ORD-10951,2025-04-22,2025-04-25,South,Home Office,First Class,Office Supplies,Labels,6,539.61,0.2,206.52
+ORD-10952,2025-08-13,2025-08-18,Central,Consumer,Second Class,Technology,Monitors,2,624.27,0.2,193.85
+ORD-10953,2025-06-06,2025-06-10,Central,Corporate,Standard Class,Furniture,Tables,2,130.51,0.1,44.71
+ORD-10954,2025-10-14,2025-10-17,South,Corporate,Standard Class,Technology,Monitors,7,5815.91,0.05,1472.29
+ORD-10955,2025-08-12,2025-08-15,Central,Corporate,Standard Class,Office Supplies,Labels,7,188.09,0.15,76.88
+ORD-10956,2025-05-27,2025-05-30,West,Consumer,Second Class,Office Supplies,Art,2,119.95,0.0,56.14
+ORD-10957,2025-08-20,2025-08-21,East,Corporate,Standard Class,Office Supplies,Labels,7,163.82,0.15,70.16
+ORD-10958,2025-12-21,2025-12-26,South,Consumer,Second Class,Office Supplies,Paper,7,371.07,0.15,159.68
+ORD-10959,2025-05-31,2025-06-03,West,Home Office,First Class,Office Supplies,Labels,5,318.52,0.0,116.51
+ORD-10960,2025-02-26,2025-03-02,West,Corporate,First Class,Office Supplies,Art,1,51.88,0.0,22.42
+ORD-10961,2025-05-30,2025-06-03,Central,Corporate,Second Class,Furniture,Chairs,4,1047.36,0.0,298.62
+ORD-10962,2025-11-03,2025-11-07,South,Consumer,Second Class,Technology,Laptops,4,888.9,0.0,307.69
+ORD-10963,2025-03-21,2025-03-24,South,Corporate,First Class,Office Supplies,Labels,4,449.27,0.05,149.94
+ORD-10964,2025-12-13,2025-12-14,South,Consumer,Same Day,Furniture,Storage,3,137.95,0.15,31.74
+ORD-10965,2025-08-03,2025-08-05,West,Consumer,Standard Class,Office Supplies,Paper,2,142.47,0.1,48.38
+ORD-10966,2025-08-08,2025-08-11,Central,Consumer,Second Class,Furniture,Bookcases,7,3058.24,0.05,1159.35
+ORD-10967,2025-04-26,2025-04-29,Central,Consumer,Standard Class,Office Supplies,Paper,2,69.69,0.2,30.67
+ORD-10968,2025-12-02,2025-12-03,West,Corporate,Standard Class,Office Supplies,Binders,4,356.78,0.15,147.66
+ORD-10969,2025-01-14,2025-01-19,Central,Home Office,Standard Class,Technology,Laptops,7,1331.31,0.05,442.07
+ORD-10970,2025-04-20,2025-04-24,West,Corporate,Standard Class,Office Supplies,Binders,1,36.54,0.05,13.07
+ORD-10971,2025-06-02,2025-06-03,South,Consumer,Second Class,Furniture,Storage,5,1993.03,0.05,464.12
+ORD-10972,2025-06-24,2025-06-25,East,Consumer,Standard Class,Office Supplies,Labels,1,58.98,0.1,21.46
+ORD-10973,2025-06-23,2025-06-24,West,Corporate,Standard Class,Technology,Monitors,1,308.47,0.15,95.07
+ORD-10974,2025-02-23,2025-02-25,Central,Consumer,First Class,Office Supplies,Binders,2,174.45,0.1,64.17
+ORD-10975,2025-03-24,2025-03-28,South,Home Office,Standard Class,Furniture,Tables,2,729.88,0.05,237.58
+ORD-10976,2025-02-04,2025-02-08,West,Consumer,Standard Class,Technology,Phones,2,220.13,0.1,60.78
+ORD-10977,2025-07-28,2025-07-31,Central,Corporate,Standard Class,Technology,Monitors,6,1810.56,0.15,489.36
+ORD-10978,2025-05-09,2025-05-10,East,Corporate,First Class,Office Supplies,Paper,7,269.77,0.0,93.78
+ORD-10979,2025-07-26,2025-07-27,Central,Consumer,Second Class,Office Supplies,Paper,4,155.53,0.05,69.99
+ORD-10980,2025-08-04,2025-08-09,South,Consumer,First Class,Technology,Laptops,1,757.72,0.1,200.71
+ORD-10981,2025-09-14,2025-09-15,West,Corporate,First Class,Office Supplies,Labels,1,83.1,0.05,36.67
+ORD-10982,2025-07-19,2025-07-24,Central,Home Office,Standard Class,Technology,Phones,4,1049.19,0.1,313.32
+ORD-10983,2025-08-25,2025-08-29,South,Consumer,First Class,Office Supplies,Binders,1,45.82,0.2,19.26
+ORD-10984,2025-08-03,2025-08-04,West,Consumer,Standard Class,Office Supplies,Art,6,441.71,0.2,136.9
+ORD-10985,2025-08-27,2025-08-28,West,Home Office,Standard Class,Furniture,Storage,7,2740.43,0.0,886.32
+ORD-10986,2025-08-14,2025-08-19,West,Corporate,First Class,Office Supplies,Labels,5,355.9,0.05,129.71
+ORD-10987,2025-04-26,2025-04-27,South,Consumer,Standard Class,Furniture,Chairs,3,1208.54,0.0,543.84
+ORD-10988,2025-03-31,2025-04-01,South,Corporate,Standard Class,Office Supplies,Art,5,192.16,0.15,76.7
+ORD-10989,2025-10-15,2025-10-19,East,Home Office,Same Day,Office Supplies,Labels,6,452.93,0.05,178.07
+ORD-10990,2025-05-06,2025-05-09,South,Consumer,Same Day,Furniture,Bookcases,6,1821.27,0.0,549.92
+ORD-10991,2025-07-20,2025-07-24,Central,Corporate,Standard Class,Office Supplies,Paper,5,247.06,0.2,96.77
+ORD-10992,2025-03-13,2025-03-15,West,Home Office,First Class,Technology,Accessories,7,3005.61,0.15,1129.95
+ORD-10993,2025-06-07,2025-06-12,West,Corporate,First Class,Office Supplies,Paper,6,204.88,0.0,63.26
+ORD-10994,2025-07-13,2025-07-14,West,Corporate,Standard Class,Office Supplies,Paper,3,40.99,0.05,17.64
+ORD-10995,2025-08-17,2025-08-20,East,Consumer,First Class,Technology,Laptops,7,2958.34,0.0,984.25
+ORD-10996,2025-07-12,2025-07-16,West,Consumer,Standard Class,Technology,Accessories,7,1681.15,0.1,540.98
+ORD-10997,2025-05-12,2025-05-17,Central,Corporate,Second Class,Technology,Accessories,4,2027.65,0.1,619.24
+ORD-10998,2025-12-18,2025-12-20,South,Consumer,Standard Class,Office Supplies,Paper,1,73.55,0.1,33.1
+ORD-10999,2025-07-07,2025-07-09,West,Consumer,Standard Class,Office Supplies,Binders,1,48.49,0.1,18.02
+ORD-11000,2025-10-23,2025-10-24,South,Home Office,Second Class,Furniture,Chairs,4,301.59,0.05,135.72
+ORD-11001,2025-09-26,2025-09-27,Central,Consumer,Standard Class,Technology,Laptops,4,2989.98,0.15,772.65
+ORD-11002,2025-07-23,2025-07-25,West,Consumer,Second Class,Furniture,Chairs,2,224.88,0.0,82.76
+ORD-11003,2025-11-20,2025-11-24,East,Consumer,Standard Class,Office Supplies,Binders,6,556.79,0.15,238.7
+ORD-11004,2025-02-16,2025-02-19,South,Consumer,Same Day,Technology,Monitors,2,1213.87,0.2,461.77
+ORD-11005,2025-12-03,2025-12-06,South,Home Office,Same Day,Technology,Monitors,7,2780.93,0.2,676.7
+ORD-11006,2025-11-07,2025-11-08,South,Home Office,Standard Class,Technology,Monitors,1,406.01,0.0,85.62
+ORD-11007,2025-07-03,2025-07-07,South,Corporate,Second Class,Technology,Phones,2,187.34,0.0,70.67
+ORD-11008,2025-09-25,2025-09-30,East,Consumer,Standard Class,Technology,Monitors,5,2484.45,0.0,590.58
+ORD-11009,2025-07-09,2025-07-14,East,Consumer,Standard Class,Technology,Monitors,3,1108.35,0.05,320.62
+ORD-11010,2025-04-09,2025-04-12,East,Consumer,Standard Class,Technology,Monitors,4,2673.67,0.0,1063.53
+ORD-11011,2025-10-19,2025-10-23,South,Corporate,Standard Class,Office Supplies,Binders,1,96.15,0.0,37.56
+ORD-11012,2025-03-31,2025-04-04,West,Consumer,Standard Class,Office Supplies,Labels,6,296.76,0.15,93.22
+ORD-11013,2025-04-25,2025-04-28,East,Consumer,Standard Class,Furniture,Chairs,1,293.33,0.1,89.89
+ORD-11014,2025-07-09,2025-07-11,South,Corporate,Standard Class,Technology,Phones,1,185.72,0.2,59.97
+ORD-11015,2025-11-02,2025-11-04,East,Consumer,Standard Class,Furniture,Chairs,7,2437.36,0.0,545.33
+ORD-11016,2025-05-21,2025-05-24,Central,Consumer,Standard Class,Technology,Phones,7,4816.85,0.1,718.94
+ORD-11017,2025-06-30,2025-07-03,Central,Corporate,Second Class,Office Supplies,Labels,2,174.45,0.15,72.76
+ORD-11018,2025-01-16,2025-01-17,East,Consumer,Standard Class,Technology,Monitors,7,3924.54,0.0,844.2
+ORD-11019,2025-02-12,2025-02-14,South,Consumer,Standard Class,Technology,Phones,4,1898.86,0.05,492.96
+ORD-11020,2025-01-21,2025-01-24,Central,Corporate,Same Day,Technology,Phones,6,2512.26,0.0,1090.67
+ORD-11021,2025-01-27,2025-01-29,East,Corporate,Standard Class,Furniture,Tables,1,336.0,0.15,82.88
+ORD-11022,2025-11-14,2025-11-16,East,Consumer,Standard Class,Furniture,Tables,7,1738.1,0.1,536.79
+ORD-11023,2025-11-04,2025-11-06,Central,Consumer,First Class,Technology,Laptops,1,505.39,0.15,144.57
+ORD-11024,2025-10-27,2025-10-28,West,Consumer,Same Day,Office Supplies,Binders,2,205.75,0.05,96.29
+ORD-11025,2025-01-21,2025-01-23,East,Consumer,Standard Class,Office Supplies,Paper,3,258.62,0.0,94.81
+ORD-11026,2025-01-29,2025-02-03,South,Consumer,First Class,Technology,Phones,4,2549.7,0.0,442.08
+ORD-11027,2025-04-13,2025-04-16,East,Consumer,Second Class,Furniture,Storage,7,1609.57,0.0,552.39
+ORD-11028,2025-07-26,2025-07-31,South,Home Office,Second Class,Technology,Laptops,6,3409.85,0.2,577.76
+ORD-11029,2025-05-02,2025-05-07,East,Consumer,Second Class,Office Supplies,Binders,3,320.85,0.0,130.07
+ORD-11030,2025-06-27,2025-06-30,West,Corporate,Standard Class,Office Supplies,Binders,6,585.21,0.05,243.93
+ORD-11031,2025-03-05,2025-03-07,West,Consumer,First Class,Technology,Phones,6,3100.45,0.2,1390.67
+ORD-11032,2025-09-24,2025-09-28,East,Consumer,Standard Class,Technology,Accessories,6,4653.95,0.05,1280.51
+ORD-11033,2025-04-25,2025-04-30,South,Consumer,Standard Class,Office Supplies,Paper,2,88.52,0.0,31.14
+ORD-11034,2025-01-25,2025-01-29,East,Home Office,First Class,Technology,Phones,1,773.37,0.0,252.3
+ORD-11035,2025-09-29,2025-10-03,Central,Home Office,Standard Class,Furniture,Tables,1,53.64,0.0,21.23
+ORD-11036,2025-11-26,2025-11-28,Central,Corporate,Standard Class,Furniture,Storage,1,274.67,0.1,85.91
+ORD-11037,2025-01-06,2025-01-08,East,Home Office,Standard Class,Furniture,Tables,6,1926.83,0.05,694.46
+ORD-11038,2025-06-09,2025-06-14,East,Corporate,Standard Class,Office Supplies,Art,4,21.77,0.2,7.16
+ORD-11039,2025-10-29,2025-10-30,Central,Corporate,Second Class,Office Supplies,Binders,6,102.84,0.0,36.07
+ORD-11040,2025-09-15,2025-09-17,Central,Consumer,Standard Class,Office Supplies,Art,6,459.1,0.1,148.4
+ORD-11041,2025-11-09,2025-11-10,East,Home Office,Second Class,Office Supplies,Paper,7,159.43,0.2,47.02
+ORD-11042,2025-06-01,2025-06-05,West,Consumer,Standard Class,Furniture,Tables,6,1327.55,0.15,270.67
+ORD-11043,2025-05-16,2025-05-21,Central,Consumer,First Class,Office Supplies,Art,4,108.68,0.1,39.66
+ORD-11044,2025-09-16,2025-09-20,West,Consumer,First Class,Furniture,Storage,6,2615.65,0.0,1039.64
+ORD-11045,2025-02-26,2025-02-28,Central,Corporate,Standard Class,Technology,Phones,7,2744.99,0.0,646.45
+ORD-11046,2025-03-29,2025-03-31,Central,Consumer,Standard Class,Technology,Monitors,2,1206.98,0.0,420.76
+ORD-11047,2025-08-08,2025-08-10,Central,Home Office,Standard Class,Technology,Accessories,7,1191.14,0.15,269.17
+ORD-11048,2025-09-01,2025-09-03,Central,Consumer,Standard Class,Furniture,Storage,5,914.74,0.1,288.28
+ORD-11049,2025-02-13,2025-02-17,West,Corporate,First Class,Technology,Laptops,3,2483.62,0.0,769.75
+ORD-11050,2025-07-05,2025-07-07,East,Corporate,Standard Class,Furniture,Chairs,5,2094.05,0.1,814.01
+ORD-11051,2025-05-14,2025-05-15,South,Consumer,Second Class,Technology,Accessories,5,4252.08,0.05,1170.77
+ORD-11052,2025-07-03,2025-07-06,South,Home Office,Standard Class,Office Supplies,Labels,5,352.72,0.1,129.41
+ORD-11053,2025-12-16,2025-12-18,West,Home Office,Standard Class,Technology,Laptops,6,1975.37,0.2,472.51
+ORD-11054,2025-01-28,2025-01-31,West,Corporate,Second Class,Office Supplies,Labels,2,53.19,0.05,20.23
+ORD-11055,2025-12-30,2026-01-01,West,Home Office,First Class,Office Supplies,Labels,7,440.1,0.0,166.89
+ORD-11056,2025-06-14,2025-06-19,West,Corporate,Second Class,Furniture,Bookcases,1,75.33,0.15,15.61
+ORD-11057,2025-10-09,2025-10-12,South,Home Office,Standard Class,Office Supplies,Paper,1,10.4,0.0,3.32
+ORD-11058,2025-06-04,2025-06-05,East,Home Office,Standard Class,Office Supplies,Paper,5,404.77,0.2,180.45
+ORD-11059,2025-04-24,2025-04-29,South,Corporate,Standard Class,Furniture,Storage,6,1429.01,0.05,428.69
+ORD-11060,2025-10-09,2025-10-11,Central,Consumer,Second Class,Technology,Accessories,6,2616.84,0.2,877.66
+ORD-11061,2025-09-08,2025-09-09,West,Consumer,Standard Class,Furniture,Tables,7,445.23,0.15,105.62
+ORD-11062,2025-02-22,2025-02-23,West,Consumer,Second Class,Technology,Accessories,3,757.09,0.05,189.43
+ORD-11063,2025-09-15,2025-09-19,West,Corporate,Second Class,Technology,Monitors,3,221.02,0.15,59.56
+ORD-11064,2025-10-02,2025-10-05,South,Consumer,Second Class,Office Supplies,Labels,5,220.71,0.0,91.45
+ORD-11065,2025-05-22,2025-05-26,South,Corporate,Second Class,Furniture,Storage,3,776.21,0.15,133.45
+ORD-11066,2025-12-04,2025-12-05,Central,Consumer,Second Class,Furniture,Storage,7,1014.33,0.1,287.46
+ORD-11067,2025-08-22,2025-08-25,South,Corporate,Standard Class,Office Supplies,Paper,7,107.33,0.0,45.13
+ORD-11068,2025-05-02,2025-05-07,West,Home Office,Standard Class,Furniture,Chairs,4,1164.26,0.2,239.07
+ORD-11069,2025-01-04,2025-01-07,West,Consumer,Second Class,Furniture,Bookcases,3,198.56,0.05,75.51
+ORD-11070,2025-09-04,2025-09-09,West,Consumer,Standard Class,Office Supplies,Binders,2,183.14,0.2,67.18
+ORD-11071,2025-03-18,2025-03-19,South,Consumer,First Class,Furniture,Storage,6,322.56,0.1,104.15
+ORD-11072,2025-10-04,2025-10-08,Central,Consumer,Standard Class,Furniture,Bookcases,3,922.69,0.1,264.77
+ORD-11073,2025-07-11,2025-07-12,Central,Consumer,First Class,Furniture,Tables,1,100.5,0.15,24.03
+ORD-11074,2025-06-20,2025-06-23,West,Consumer,Same Day,Technology,Phones,3,464.52,0.05,140.7
+ORD-11075,2025-03-01,2025-03-06,Central,Consumer,Second Class,Furniture,Bookcases,3,1222.11,0.2,243.14
+ORD-11076,2025-09-17,2025-09-21,Central,Consumer,Second Class,Office Supplies,Art,5,457.09,0.0,205.69
+ORD-11077,2025-03-02,2025-03-05,South,Home Office,First Class,Office Supplies,Paper,2,192.62,0.1,75.82
+ORD-11078,2025-06-02,2025-06-07,South,Corporate,Standard Class,Office Supplies,Paper,3,70.93,0.1,28.74
+ORD-11079,2025-11-02,2025-11-03,West,Home Office,Standard Class,Furniture,Tables,3,1200.9,0.15,277.72
+ORD-11080,2025-12-02,2025-12-07,West,Consumer,Second Class,Office Supplies,Paper,2,29.85,0.15,12.98
+ORD-11081,2025-12-28,2025-12-30,Central,Consumer,Same Day,Technology,Accessories,1,148.64,0.1,41.65
+ORD-11082,2025-12-16,2025-12-21,East,Consumer,Standard Class,Office Supplies,Art,4,69.82,0.0,29.54
+ORD-11083,2025-07-22,2025-07-23,West,Home Office,Standard Class,Office Supplies,Art,2,87.65,0.15,41.02
+ORD-11084,2025-03-15,2025-03-19,East,Home Office,Standard Class,Furniture,Bookcases,3,408.81,0.15,111.02
+ORD-11085,2025-11-03,2025-11-04,Central,Consumer,Standard Class,Technology,Monitors,4,3596.62,0.0,962.3
+ORD-11086,2025-10-20,2025-10-23,East,Corporate,Second Class,Furniture,Bookcases,3,764.63,0.1,287.27
+ORD-11087,2025-12-28,2025-12-31,East,Consumer,First Class,Office Supplies,Art,4,285.83,0.0,97.61
+ORD-11088,2025-08-26,2025-08-28,East,Corporate,Second Class,Office Supplies,Paper,1,77.3,0.1,31.0
+ORD-11089,2025-02-21,2025-02-26,Central,Corporate,Standard Class,Furniture,Chairs,6,1528.29,0.15,430.39
+ORD-11090,2025-07-03,2025-07-08,West,Consumer,Same Day,Office Supplies,Binders,3,258.31,0.0,120.89
+ORD-11091,2025-06-13,2025-06-14,Central,Consumer,Same Day,Furniture,Chairs,2,950.0,0.05,335.0
+ORD-11092,2025-11-04,2025-11-06,South,Consumer,Standard Class,Office Supplies,Binders,6,184.53,0.05,68.98
+ORD-11093,2025-05-24,2025-05-28,West,Consumer,First Class,Furniture,Tables,4,922.23,0.1,242.51
+ORD-11094,2025-04-30,2025-05-05,East,Consumer,Standard Class,Office Supplies,Binders,5,447.24,0.0,176.67
+ORD-11095,2025-01-30,2025-02-01,South,Consumer,Standard Class,Furniture,Tables,5,566.42,0.2,98.1
+ORD-11096,2025-11-01,2025-11-05,East,Home Office,Standard Class,Technology,Laptops,5,954.89,0.15,256.21
+ORD-11097,2025-10-03,2025-10-07,Central,Corporate,Standard Class,Office Supplies,Paper,5,248.18,0.0,89.27
+ORD-11098,2025-01-16,2025-01-17,West,Consumer,First Class,Office Supplies,Labels,2,172.33,0.0,62.07
+ORD-11099,2025-06-08,2025-06-09,Central,Consumer,Second Class,Technology,Accessories,7,4219.69,0.1,952.48
+ORD-11100,2025-06-25,2025-06-29,West,Home Office,Standard Class,Technology,Phones,5,2541.51,0.05,774.64
+ORD-11101,2025-06-21,2025-06-25,West,Home Office,Same Day,Furniture,Tables,1,238.9,0.0,83.7
+ORD-11102,2025-12-02,2025-12-06,East,Consumer,Standard Class,Technology,Phones,5,1349.94,0.05,405.73
+ORD-11103,2025-02-24,2025-02-27,South,Corporate,First Class,Office Supplies,Labels,2,81.03,0.05,32.72
+ORD-11104,2025-04-22,2025-04-24,South,Home Office,Standard Class,Office Supplies,Paper,1,35.58,0.2,14.7
+ORD-11105,2025-03-08,2025-03-10,South,Corporate,Standard Class,Furniture,Bookcases,4,1080.01,0.1,345.47
+ORD-11106,2025-03-31,2025-04-03,East,Home Office,First Class,Office Supplies,Art,2,198.09,0.15,81.84
+ORD-11107,2025-11-28,2025-12-01,Central,Home Office,Second Class,Furniture,Chairs,3,928.22,0.0,296.11
+ORD-11108,2025-12-10,2025-12-14,East,Home Office,Second Class,Office Supplies,Labels,1,88.14,0.05,39.66
+ORD-11109,2025-01-17,2025-01-18,South,Consumer,Standard Class,Technology,Phones,5,590.78,0.0,174.32
+ORD-11110,2025-08-19,2025-08-22,West,Home Office,Second Class,Technology,Phones,6,2475.55,0.2,900.76
+ORD-11111,2025-03-26,2025-03-31,East,Corporate,First Class,Office Supplies,Paper,1,87.39,0.0,33.96
+ORD-11112,2025-03-12,2025-03-16,Central,Consumer,Standard Class,Office Supplies,Paper,6,291.92,0.15,130.23
+ORD-11113,2025-04-17,2025-04-19,West,Home Office,Second Class,Furniture,Bookcases,5,1324.08,0.1,477.0
+ORD-11114,2025-03-12,2025-03-17,West,Consumer,First Class,Furniture,Chairs,6,1432.69,0.05,457.68
+ORD-11115,2025-06-28,2025-06-30,East,Consumer,Second Class,Furniture,Chairs,5,1960.81,0.0,807.64
+ORD-11116,2025-12-30,2026-01-04,South,Corporate,Standard Class,Technology,Monitors,4,2909.05,0.15,841.05
+ORD-11117,2025-08-03,2025-08-06,Central,Consumer,First Class,Technology,Laptops,6,2614.15,0.05,806.68
+ORD-11118,2025-09-21,2025-09-25,Central,Consumer,Standard Class,Technology,Monitors,7,1236.99,0.2,401.49
+ORD-11119,2025-06-30,2025-07-01,East,Home Office,Standard Class,Furniture,Chairs,6,796.76,0.0,318.85
+ORD-11120,2025-01-06,2025-01-10,Central,Consumer,First Class,Office Supplies,Art,2,97.77,0.0,41.92
+ORD-11121,2025-01-31,2025-02-01,West,Corporate,Second Class,Office Supplies,Labels,2,58.33,0.05,22.55
+ORD-11122,2025-04-09,2025-04-13,Central,Corporate,Standard Class,Furniture,Bookcases,5,2052.15,0.0,627.14
+ORD-11123,2025-03-30,2025-04-03,Central,Home Office,Same Day,Office Supplies,Art,1,4.77,0.1,1.91
+ORD-11124,2025-11-03,2025-11-04,West,Consumer,Standard Class,Technology,Phones,3,249.31,0.2,64.95
+ORD-11125,2025-11-04,2025-11-07,East,Home Office,Second Class,Office Supplies,Paper,1,64.24,0.05,27.42
+ORD-11126,2025-11-08,2025-11-11,East,Consumer,Standard Class,Office Supplies,Paper,4,373.0,0.05,142.97
+ORD-11127,2025-08-21,2025-08-23,South,Corporate,First Class,Office Supplies,Labels,2,34.49,0.15,15.52
+ORD-11128,2025-07-23,2025-07-27,Central,Corporate,Standard Class,Technology,Monitors,1,149.1,0.15,52.74
+ORD-11129,2025-08-25,2025-08-28,South,Corporate,Second Class,Technology,Laptops,2,1569.93,0.1,504.33
+ORD-11130,2025-05-29,2025-06-03,South,Consumer,Standard Class,Office Supplies,Art,5,23.82,0.05,7.15
+ORD-11131,2025-09-02,2025-09-04,Central,Consumer,Standard Class,Office Supplies,Labels,7,99.69,0.0,38.29
+ORD-11132,2025-10-17,2025-10-20,South,Corporate,First Class,Furniture,Tables,1,40.15,0.05,14.07
+ORD-11133,2025-10-06,2025-10-08,West,Consumer,Standard Class,Office Supplies,Art,2,225.89,0.0,97.71
+ORD-11134,2025-08-13,2025-08-16,East,Corporate,Standard Class,Technology,Laptops,5,1025.4,0.1,298.89
+ORD-11135,2025-01-22,2025-01-24,West,Home Office,Second Class,Technology,Monitors,2,1012.7,0.05,298.66
+ORD-11136,2025-09-22,2025-09-27,East,Consumer,Standard Class,Office Supplies,Binders,2,101.04,0.2,37.71
+ORD-11137,2025-05-14,2025-05-16,South,Consumer,Standard Class,Technology,Laptops,4,2767.35,0.0,856.23
+ORD-11138,2025-09-29,2025-09-30,West,Corporate,First Class,Furniture,Tables,7,1111.77,0.05,412.04
+ORD-11139,2025-07-16,2025-07-20,West,Consumer,Standard Class,Technology,Monitors,1,695.83,0.0,169.81
+ORD-11140,2025-11-18,2025-11-21,South,Home Office,First Class,Furniture,Storage,6,1739.68,0.2,378.45
+ORD-11141,2025-05-04,2025-05-05,South,Home Office,First Class,Furniture,Bookcases,6,2040.07,0.2,525.43
+ORD-11142,2025-12-06,2025-12-09,East,Consumer,Second Class,Office Supplies,Art,5,310.8,0.1,117.3
+ORD-11143,2025-11-05,2025-11-10,Central,Corporate,Second Class,Office Supplies,Labels,3,103.96,0.05,33.81
+ORD-11144,2025-05-01,2025-05-05,Central,Consumer,Standard Class,Technology,Accessories,6,3383.47,0.1,1181.58
+ORD-11145,2025-06-26,2025-07-01,West,Consumer,Standard Class,Furniture,Bookcases,5,976.74,0.05,315.71
+ORD-11146,2025-07-13,2025-07-16,South,Consumer,Standard Class,Office Supplies,Paper,1,114.05,0.0,51.32
+ORD-11147,2025-10-08,2025-10-09,South,Consumer,Standard Class,Furniture,Tables,2,479.7,0.05,169.05
+ORD-11148,2025-09-09,2025-09-14,West,Consumer,Standard Class,Technology,Phones,5,2470.51,0.2,627.61
+ORD-11149,2025-11-07,2025-11-09,East,Consumer,Second Class,Technology,Laptops,1,179.63,0.1,64.87
+ORD-11150,2025-05-16,2025-05-19,Central,Corporate,Second Class,Technology,Accessories,4,2425.92,0.15,764.64
+ORD-11151,2025-07-04,2025-07-06,Central,Consumer,Standard Class,Furniture,Bookcases,7,2382.81,0.1,751.38
+ORD-11152,2025-06-07,2025-06-08,West,Corporate,Standard Class,Technology,Monitors,2,541.85,0.0,133.7
+ORD-11153,2025-11-28,2025-12-02,Central,Corporate,Standard Class,Technology,Laptops,7,5037.79,0.15,1288.32
+ORD-11154,2025-04-22,2025-04-27,Central,Consumer,Second Class,Office Supplies,Art,3,77.35,0.1,33.3
+ORD-11155,2025-08-03,2025-08-08,West,Consumer,Standard Class,Office Supplies,Binders,2,35.25,0.2,13.76
+ORD-11156,2025-02-13,2025-02-14,West,Consumer,First Class,Technology,Monitors,3,1465.88,0.1,425.26
+ORD-11157,2025-11-07,2025-11-09,South,Consumer,Second Class,Technology,Laptops,1,650.24,0.0,156.71
+ORD-11158,2025-05-21,2025-05-26,South,Consumer,Second Class,Technology,Phones,4,2124.35,0.05,542.21
+ORD-11159,2025-05-05,2025-05-08,West,Corporate,Standard Class,Office Supplies,Labels,2,132.0,0.15,47.32
+ORD-11160,2025-08-01,2025-08-04,Central,Corporate,Standard Class,Furniture,Tables,5,1456.96,0.2,370.46
+ORD-11161,2025-07-02,2025-07-04,South,Corporate,Standard Class,Technology,Monitors,7,1484.81,0.15,356.82
+ORD-11162,2025-11-06,2025-11-09,West,Consumer,Second Class,Furniture,Tables,2,935.27,0.0,227.92
+ORD-11163,2025-07-13,2025-07-15,West,Consumer,Standard Class,Furniture,Chairs,7,3253.25,0.1,1522.52
+ORD-11164,2025-07-08,2025-07-12,Central,Consumer,Standard Class,Furniture,Chairs,3,773.77,0.0,169.05
+ORD-11165,2025-02-08,2025-02-12,East,Consumer,Same Day,Office Supplies,Art,2,171.59,0.1,57.57
+ORD-11166,2025-01-09,2025-01-10,East,Corporate,First Class,Office Supplies,Labels,2,45.05,0.0,16.99
+ORD-11167,2025-05-26,2025-05-30,Central,Consumer,Standard Class,Technology,Laptops,6,1365.28,0.0,288.05
+ORD-11168,2025-12-31,2026-01-01,Central,Home Office,Standard Class,Technology,Phones,7,1630.29,0.15,545.12
+ORD-11169,2025-12-01,2025-12-04,South,Corporate,Standard Class,Technology,Phones,1,618.88,0.15,156.09
+ORD-11170,2025-08-18,2025-08-23,Central,Corporate,Second Class,Office Supplies,Labels,2,120.4,0.05,51.74
+ORD-11171,2025-08-19,2025-08-21,Central,Corporate,First Class,Technology,Monitors,7,4198.7,0.0,771.01
+ORD-11172,2025-05-23,2025-05-24,South,Consumer,Standard Class,Office Supplies,Paper,1,63.81,0.1,27.72
+ORD-11173,2025-03-06,2025-03-08,West,Consumer,Second Class,Technology,Monitors,6,3238.11,0.15,979.77
+ORD-11174,2025-01-04,2025-01-09,West,Consumer,First Class,Furniture,Tables,2,190.52,0.1,57.67
+ORD-11175,2025-05-04,2025-05-05,West,Home Office,First Class,Technology,Phones,1,524.95,0.1,160.7
+ORD-11176,2025-04-26,2025-05-01,West,Consumer,Standard Class,Technology,Phones,1,759.68,0.0,239.46
+ORD-11177,2025-03-11,2025-03-15,Central,Consumer,Standard Class,Technology,Phones,2,925.86,0.2,239.98
+ORD-11178,2025-04-05,2025-04-08,West,Consumer,Standard Class,Office Supplies,Art,2,77.83,0.2,35.62
+ORD-11179,2025-01-10,2025-01-13,West,Corporate,First Class,Furniture,Storage,3,953.28,0.05,314.38
+ORD-11180,2025-08-10,2025-08-12,South,Home Office,Standard Class,Furniture,Storage,4,494.81,0.05,163.77
+ORD-11181,2025-12-05,2025-12-06,West,Corporate,Standard Class,Office Supplies,Binders,4,237.53,0.0,87.84
+ORD-11182,2025-09-10,2025-09-12,East,Consumer,Standard Class,Technology,Phones,3,1953.1,0.0,715.09
+ORD-11183,2025-06-13,2025-06-17,East,Corporate,Same Day,Furniture,Storage,2,703.05,0.0,236.63
+ORD-11184,2025-06-03,2025-06-08,West,Consumer,Standard Class,Office Supplies,Binders,2,92.06,0.1,41.8
+ORD-11185,2025-04-23,2025-04-27,Central,Consumer,Standard Class,Furniture,Storage,1,62.94,0.1,19.1
+ORD-11186,2025-02-21,2025-02-26,East,Home Office,Standard Class,Furniture,Storage,2,776.48,0.05,220.45
+ORD-11187,2025-08-07,2025-08-08,West,Corporate,Standard Class,Office Supplies,Paper,1,40.83,0.1,13.43
+ORD-11188,2025-07-26,2025-07-27,West,Consumer,Standard Class,Office Supplies,Art,3,27.11,0.0,11.6
+ORD-11189,2025-01-03,2025-01-08,South,Home Office,Standard Class,Furniture,Bookcases,3,755.38,0.0,191.63
+ORD-11190,2025-06-01,2025-06-06,West,Home Office,Standard Class,Technology,Phones,6,3394.6,0.05,1103.9
+ORD-11191,2025-04-12,2025-04-13,South,Corporate,Second Class,Technology,Monitors,6,3327.98,0.1,657.91
+ORD-11192,2025-03-04,2025-03-08,East,Consumer,First Class,Office Supplies,Binders,1,22.19,0.15,9.28
+ORD-11193,2025-09-14,2025-09-18,East,Corporate,Standard Class,Office Supplies,Binders,2,129.15,0.2,42.84
+ORD-11194,2025-07-11,2025-07-15,Central,Consumer,Standard Class,Furniture,Tables,4,1755.93,0.05,566.27
+ORD-11195,2025-08-20,2025-08-21,West,Consumer,Same Day,Technology,Laptops,1,776.95,0.0,226.05
+ORD-11196,2025-09-18,2025-09-22,Central,Consumer,First Class,Furniture,Tables,2,253.78,0.05,85.06
+ORD-11197,2025-12-25,2025-12-26,South,Consumer,Same Day,Technology,Laptops,6,1890.3,0.15,348.35
+ORD-11198,2025-10-21,2025-10-22,Central,Consumer,Standard Class,Technology,Phones,3,834.39,0.05,241.37
+ORD-11199,2025-08-15,2025-08-17,South,Consumer,Standard Class,Office Supplies,Art,5,507.09,0.1,223.94
